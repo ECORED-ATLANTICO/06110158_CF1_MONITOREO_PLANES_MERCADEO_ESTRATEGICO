@@ -84,3 +84,243 @@
 
 figcaption
   font-weight: normal
+
+
+// --- CITA DECORADA --- //
+
+.cita-decorada
+  
+  .cita-decorada__caja
+    background-size: 100% 100%
+    background-repeat: no-repeat
+
+    &--fondo-1
+      background-image: url('../assets/curso/temas/tema_1/img_4.png')
+    
+
+    [class*="cita-decorada__imagen-flotante"]
+      width: 100%
+      height: auto
+      
+    .cita-decorada__imagen-flotante-1
+      position: absolute
+      transform: translateY(-90px) translateX(-45px)
+      z-index: 3
+      max-width: 130px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-80px) translateX(-40px)
+        max-width: 120px
+      
+    .cita-decorada__imagen-flotante-2
+      position: absolute
+      transform: translateY(-70px) translateX(-55px)
+      z-index: 3
+      max-width: 150px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-60px) translateX(-50px)
+        max-width: 150px
+      
+    .cita-decorada__imagen-flotante-3
+      position: absolute
+      transform: translateY(-130px) translateX(37px)
+      z-index: 3
+      max-width: 200px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-90px) translateX(10px)
+        max-width: 300px
+      
+    .cita-decorada__imagen-flotante-4
+      position: absolute
+      transform: translateY(-112px) translateX(25px)
+      z-index: 3
+      max-width: 225px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-70px) translateX(15px)
+        max-width: 300px
+      
+    .cita-decorada__imagen-flotante-5
+      position: absolute
+      transform: translateY(-90px) translateX(25px)
+      z-index: 3
+      max-width: 180px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-75px) translateX(15px)
+        max-width: 225px
+      
+    .cita-decorada__imagen-flotante-6
+      position: absolute
+      transform: translateY(-112px) translateX(25px)
+      z-index: 3
+      max-width: 220px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-105px) translateX(-5px)
+        max-width: 210px
+      
+    .cita-decorada__imagen-flotante-7
+      position: absolute
+      transform: translateY(-105px) translateX(25px)
+      z-index: 3
+      max-width: 170px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-95px) translateX(5px)
+        max-width: 210px
+      
+    .cita-decorada__imagen-flotante-8
+      position: absolute
+      transform: translateY(-120px) translateX(-10px)
+      z-index: 3
+      max-width: 300px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-85px) translateX(-30px)
+        max-width: 230px
+      
+    .cita-decorada__imagen-flotante-9
+      position: absolute
+      transform: translateY(-105px) translateX(-30px)
+      z-index: 3
+      max-width: 320px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-85px) translateX(-30px)
+        max-width: 230px
+      
+    .cita-decorada__imagen-flotante-10
+      position: absolute
+      transform: translateY(-120px) translateX(5px)
+      z-index: 3
+      max-width: 225px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-122px) translateX(-30px)
+        max-width: 220px
+      
+    .cita-decorada__imagen-flotante-11
+      position: absolute
+      transform: translateY(-100px) translateX(30px)
+      z-index: 3
+      max-width: 200px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-80px) translateX(5px)
+        max-width: 220px
+      
+    .cita-decorada__imagen-flotante-12
+      position: absolute
+      transform: translateY(-125px) translateX(-55px)
+      z-index: 3
+      max-width: 225px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-80px) translateX(5px)
+        max-width: 220px
+
+.factores-slider, .custom-slider
+  &__icon 
+    max-height: 93px
+    @media (max-width: 768px)
+      max-height: 70px
+  
+  .h-95
+    height: 85% !important
+  
+  .slyder-f
+    align-items: center
+    justify-content: center
+    gap: 0
+  
+  .slyder-f__btn
+    background-color: $color-acento-botones
+    color: $white !important
+    height: 42px
+    width: 42px
+    min-width: 42px
+    border-radius: 50%
+    padding: 0 !important
+    transition: transform 0.3s
+    z-index: 100
+    
+    @media (max-width: 768px)
+      height: 35px
+      width: 35px
+      min-width: 35px
+    
+    &:hover
+      transform: scale(1.1)
+    
+    .fa-chevron-left, .fa-chevron-right
+      font-size: 1.5rem
+      @media (max-width: 768px)
+        font-size: 1.2rem
+    
+    &.ps-3
+      margin-left: 7px
+      @media (max-width: 1024px)
+        margin-left: 7px
+      @media (max-width: 768px)
+        margin-left: 0
+    
+    &.pe-3
+      margin-right: 7px
+      @media (max-width: 1024px)
+        margin-right: 7px
+      @media (max-width: 768px)
+        margin-right: 0
+  
+  &--color-fondo-1
+    &__icon 
+      max-height: 93px
+      @media (max-width: 768px)
+        max-height: 70px
+    
+    .h-95
+      height: 95% !important
+    
+    .slyder-f
+      align-items: center
+      justify-content: center
+      gap: 0
+    
+    .slyder-f__btn
+      background-color: $color-primario !important
+      color: $white !important
+      height: 42px
+      width: 42px
+      min-width: 42px
+      border-radius: 50%
+      padding: 0 !important
+      transition: transform 0.3s
+      
+      @media (max-width: 768px)
+        height: 35px
+        width: 35px
+        min-width: 35px
+      
+      &:hover
+        transform: scale(1.1)
+      
+      .fa-chevron-left, .fa-chevron-right
+        font-size: 1.5rem
+        @media (max-width: 768px)
+          font-size: 1.2rem
+      
+      &.ps-3
+        margin-left: 7px
+        @media (max-width: 1024px)
+          margin-left: 7px
+        @media (max-width: 768px)
+          margin-left: 0
+      
+      &.pe-3
+        margin-right: 7px
+        @media (max-width: 1024px)
+          margin-right: 7px
+        @media (max-width: 768px)
+          margin-right: 0
