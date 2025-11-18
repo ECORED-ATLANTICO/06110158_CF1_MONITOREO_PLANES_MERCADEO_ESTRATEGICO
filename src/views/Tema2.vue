@@ -23,6 +23,35 @@
         #t_2_1.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 2.1 Actividades del plan de mercadeo.
         .mb-3
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        figure
+          img(src="@/assets/curso/temas/tema_2/img_2.png", class="img-fluid")
+      .col-12.col-lg-9(data-aos="zoom-in-right")
+        p.mb-3 Las actividades del plan de mercadeo constituyen el punto de partida del sistema de monitoreo, estas acciones, previamente definidas en la planeación estratégica, deben ser observables, medibles y documentables; por ejemplo, en <em>Postobón</em>, una actividad clave del plan es la activación de marca en eventos deportivos, el monitoreo se enfoca en verificar la ejecución logística, la visibilidad de la marca y la interacción con el público.
+        .row.justify-content-center.align-items-center.mb-3
+          .col-12.col-lg-9.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
+            .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
+              p.mb-3 Algunos criterios para seleccionar actividades monitoreables son:
+              ul.list-unstyled.mb-3
+                li.d-flex.align-items-start.mb-0
+                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                  span Relevancia estratégica.
+                li.d-flex.align-items-start.mb-0
+                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                  span Claridad operativa.
+                li.d-flex.align-items-start.mb-0
+                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                  span Posibilidad de medición.
+                li.d-flex.align-items-start.mb-0
+                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                  span Impacto esperado.
+              p.mb-3 Estos criterios no llevan a las actividades monitoreables, como por ejemplo el lanzamiento de un producto, campañas digitales segmentadas, promociones en punto de venta, alianzas comerciales y activaciones de marcas entre muchas.
+          .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+            figure
+              img(src='@/assets/curso/temas/tema_2/img_3.png', class="img-fluid")
+       
 
     Separador
     .row.justify-content-center.align-items-center.mb-0
@@ -31,12 +60,58 @@
           .h2(data-aos="fade-right") 2.2 Indicadores de desempeño - KPIs
         .mb-3
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-12(data-aos="zoom-in-right")
+        p.mb-3 Los KPIs (<em>Key Performance Indicators</em>) son métricas que permiten evaluar el grado de cumplimiento de las actividades del plan, deben ser específicos, relevantes y alineados con los objetivos estratégicos, algunos de los tipos en mercadeo estratégico son:
+
+
+    .row.justify-content-center.align-items-center.mb-5
+        .col-8.col-lg-4.mb-lg-0.mb-3
+          figure
+            img(src='@/assets/curso/temas/tema_2/img_4.png', class="img-fluid")
+        .col-12.col-lg-8.mb-0
+          .custom-slider.p-0.p-sm-0(data-aos="zoom-in-right")
+            SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--5
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs de alcance
+                  .tarjeta--slider__content.text-center Número de personas impactadas, por ejemplo: impresiones, visitas únicas.
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--6
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs de conversión
+                  .tarjeta--slider__content.text-center Porcentaje de usuarios que realizan una acción deseada, por ejemplo: tasa de clics, compras.
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--7
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs de fidelización
+                  .tarjeta--slider__content.text-center Tasa de recompra, retención de clientes.
+              .tarjeta--blanca-1.h-95
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-12.mb-3
+                    .tarjeta--8
+                  .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs financieros
+                  .tarjeta--slider__content.text-center Retorno sobre inversión (ROI), margen de contribución.
+
     Separador
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10
         #t_2_3.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 2.3 Herramientas de seguimiento
         .mb-3
+      
+    .row.justify-content-center.align-items-center.mb-5
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        figure
+          img(src="@/assets/curso/temas/tema_2/img_9.png", class="img-fluid")
+      .col-12.col-lg-7(data-aos="zoom-in-right")
+        p.mb-3 Las herramientas de seguimiento permiten recolectar, visualizar y analizar los datos relacionados con las actividades y KPIs, su elección depende del tipo de información, el nivel de automatización y los recursos disponibles, vamos a profundizar en estas, en el capítulo 5 del presente componente formativo, por lo pronto veamos algunos ejemplos no tecnológicos:
+      
+    
 
     Separador
     .row.justify-content-center.align-items-center.mb-0

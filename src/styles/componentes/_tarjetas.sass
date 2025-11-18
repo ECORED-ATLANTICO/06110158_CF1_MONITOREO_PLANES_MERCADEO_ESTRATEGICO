@@ -51,7 +51,22 @@
     content: url('../assets/curso/temas/tema_1/img_18.svg')
     margin: 0 auto 
     width: 8rem  
-   
+  &--5
+    content: url('../assets/curso/temas/tema_2/img_5.svg')
+    margin:  auto 
+    width: 8rem
+  &--6
+    content: url('../assets/curso/temas/tema_2/img_6.svg')
+    margin: 0 auto 
+    width: 8rem 
+  &--7
+    content: url('../assets/curso/temas/tema_2/img_7.svg')
+    margin: 0 auto 
+    width: 8rem 
+  &--8
+    content: url('../assets/curso/temas/tema_2/img_8.svg')
+    margin: 0 auto 
+    width: 8rem 
 
     &.color-primario
       &:active, &:focus, &:hover
@@ -95,6 +110,14 @@
       background-color: lighten($color-secundario, 50%)
       color: textColor(lighten($color-secundario, 50%))
       border: solid 4px $color-secundario
+  &.color-secundario-5
+    background-color: $color-secundario-5
+    *
+      color: textColor($color-secundario-5)
+    &--borde
+      background-color: lighten($color-secundario-5, 50%)
+      color: textColor(lighten($color-secundario-5, 50%))
+      border: solid 4px $color-secundario-5
   &.color-acento-contenido
     background-color: $color-acento-contenido
     *
