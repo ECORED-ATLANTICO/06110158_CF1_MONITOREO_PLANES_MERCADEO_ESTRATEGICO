@@ -103,6 +103,62 @@
         #t_2_3.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 2.3 Herramientas de seguimiento
         .mb-3
+    
+    .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10 
+          .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+            h5 Tabla 3.
+            span Herramientas según componente.
+          .tabla-a.mb-5(data-aos="zoom-in-right")
+            table
+              caption 
+                p <b>Fuente:</b> SENA, 2025
+              thead
+                tr
+                  th.col-2.col-lg-3 Componente
+                  th.col-2.col-lg-4 Herramientas principales
+                  th.col-2.col-lg-5 Ejemplos adicionales
+              tbody
+                tr
+                  td Actividades operativas.
+                  td(style="text-align: left;") 
+                    | <em>Checklists</em> digitales (Google <em>Forms</em>, Jotform). <br>
+                    | Formularios de verificación (Typeform, KoboToolbox).
+                  td(style="text-align: left;")
+                    | <b>Trello:</b> seguimiento de tareas operativas. <br>
+                    | <b>Asana:</b> gestión de ejecución en campo. <br>
+                    | <b>Fulcrum:</b> recolección geolocalizada de datos.
+
+                tr
+                  td KPIs digitales.
+                  td(style="text-align: left;")
+                    | Google Analytics. <br>
+                    | Meta Ads Manager.
+                  td(style="text-align: left;")
+                    | <b>Hotjar:</b> mapas de calor y comportamiento del usuario. <br>
+                    | <b>SEMRush:</b> análisis SEO y tráfico orgánico. <br>
+                    | <b>Google Tag Manager:</b> seguimiento de eventos personalizados.
+
+                tr
+                  td KPIs comerciales.
+                  td(style="text-align: left;")
+                    | CRM (<em>Salesforce</em>, <em>HubSpot</em>). <br>
+                    | ERP (SAP, Odoo).
+                  td(style="text-align: left;")
+                    | <b>Zoho CRM:</b> gestión de clientes y ventas. <br>
+                    | <b>Microsoft Dynamics 365:</b> integración comercial y operativa. <br>
+                    | <b>Pipedrive:</b> seguimiento de oportunidades de venta.
+
+                tr
+                  td KPIs financieros.
+                  td(style="text-align: left;")
+                    | Power BI. <br>
+                    | Excel avanzado.
+                  td(style="text-align: left;")
+                    | <b>Tableau:</b> visualización de datos financieros. <br>
+                    | <b>QuickBooks:</b> gestión contable y financiera. <br>
+                    | <b>Google Looker Studio:</b> reportes financieros integrados.
+                 
       
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
@@ -120,7 +176,29 @@
           .h2(data-aos="fade-right") 2.4 Frecuencia y responsables.
         .mb-3
 
-
+    .row.justify-content-center.align-items-center.mb-5
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        figure
+          img(src="@/assets/curso/temas/tema_2/img_19.png", class="img-fluid")
+      .col-12.col-lg-7(data-aos="zoom-in-right")
+        p.mb-3 Algunos roles responsables podrían ser por ejemplo el coordinador de mercadeo, el analista de inteligencia comercial, el líder de canal o segmento o el equipo de monitoreo estratégico.
+        
+        .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
+          p.mb-3 <b>Ejemplo empresarial.</b> Una empresa el monitoreo de KPIs de fidelización se realiza mensualmente por el equipo de CRM, mientras que los indicadores financieros se revisan trimestralmente por la gerencia de mercadeo, podrías decir además que la frecuencia y los responsables son:
+          ul.list-unstyled.mb-3
+            li.d-flex.align-items-start.mb-0
+              i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+              span Diaria, coordinador de punto de venta.
+            li.d-flex.align-items-start.mb-0
+              i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+              span Semanal, analista de campañas.
+            li.d-flex.align-items-start.mb-0
+              i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+              span Mensual, líder de canal.
+            li.d-flex.align-items-start.mb-0
+              i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+              span Trimestral, gerente de mercadeo.
+         
 </template>
 
 <script>
