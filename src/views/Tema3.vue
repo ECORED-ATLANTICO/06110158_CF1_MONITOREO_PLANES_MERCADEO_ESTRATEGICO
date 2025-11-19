@@ -7,7 +7,16 @@
         span 3
       h1  Relación actividades del plan y sistema de monitoreo
 
-    
+    .tarjeta.color-acento-contenido-20.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
+      .row.g-0.align-items-stretch
+        .col-12.col-lg-5.mb-lg-0.mb-3
+          img(src="@/assets/curso/temas/tema_3/img_1.png", class="w-100 h-100", style="object-fit: cover; min-height: 200px;")
+        .col-12.col-lg-7
+          .p-4.p-lg-5.d-flex.align-items-center.h-100
+            div
+              p.mb-3 La efectividad de un sistema de monitoreo depende en gran medida de su capacidad para reflejar fielmente las actividades del plan de mercadeo. 
+              p.mb-3 Este capítulo aborda cómo mapear dichas actividades frente a los indicadores clave, cómo priorizar componentes según su impacto estratégico y cómo realizar ajustes que aseguren la alineación entre las acciones ejecutadas y el seguimiento realizado, el objetivo es que el aprendiz comprenda cómo construir una lógica de monitoreo coherente, útil y adaptable a los cambios del entorno.
+  
     Separador
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10
