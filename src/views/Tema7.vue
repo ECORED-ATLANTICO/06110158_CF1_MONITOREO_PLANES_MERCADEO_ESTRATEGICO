@@ -5,7 +5,28 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1 Tema 7
+      h1 Conciliación del sistema de monitoreo
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10
+        #t_7_1.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 7.1 Criterios de selección
+        .mb-3
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12
+        #t_7_2.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 7.2 Inconsistencias-coherencia
+        .mb-3
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12
+        #t_7_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 7.3 Ajustes
+        .mb-3
 
 
 </template>

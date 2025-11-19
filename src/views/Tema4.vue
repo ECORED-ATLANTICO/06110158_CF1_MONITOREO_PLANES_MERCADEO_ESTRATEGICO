@@ -5,7 +5,42 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Procedimiento de monitoreo
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10
+        #t_4_1.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.1 Concepto
+        .mb-3
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12
+        #t_4_2.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.2 Finalidad
+        .mb-3
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12
+        #t_4_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.3 Etapas
+        .mb-3
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10
+        #t_4_4.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.4 Documentación
+        .mb-3
+
+    Separador
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10
+        #t_4_5.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.5 Trazabilidad
+        .mb-3
 
 
 </template>
