@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/06110158_CF1_MONITOREO_PLANES_MERCADEO_ESTRATEGICO/#/](https://ecored-atlantico.github.io/06110158_CF1_MONITOREO_PLANES_MERCADEO_ESTRATEGICO/#/)
 
 #
 
