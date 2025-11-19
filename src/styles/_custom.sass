@@ -1,5 +1,3 @@
-
-  
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal-decorativo
   &-1
@@ -222,6 +220,7 @@ figcaption
         transform: translateY(-80px) translateX(5px)
         max-width: 220px
 
+// factores-slider custom-slider
 .factores-slider, .custom-slider
   &__icon 
     max-height: 93px
@@ -324,3 +323,51 @@ figcaption
           margin-right: 7px
         @media (max-width: 768px)
           margin-right: 0
+
+// Fondos 
+.bg_img
+  &_1
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -200px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_1/img_20.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
+  &_2
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -50px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_1/img_21.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
+  &_2
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: -50px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/temas/tema_1/img_22.png') !important
+      background-repeat: no-repeat
+      pointer-events: none
