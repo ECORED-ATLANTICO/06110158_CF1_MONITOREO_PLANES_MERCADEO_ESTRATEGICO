@@ -33,7 +33,7 @@
       .col-12.col-lg-10 
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 3.
-          span Ejemplo de mapeo de actividades vs. indicador
+          span Ejemplo de mapeo de actividades vs. indicador.
         figure(data-aos="zoom-in-right").mb-3
           img(src='@/assets/curso/temas/tema_3/img_2.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra cuatro diferentes ejemplos de mapeo de actividades vs. indicador. Texto de la figura: Lanzamiento de producto.  Indicadores asociados: ventas iniciales, awareness, ROI. Activación en eventos. Indicadores asociados: interacciones, leads generados. Campaña en redes sociales.  Indicadores asociados: alcance, engagement, CTR. Promoción en punto de venta. Indicadores asociados: redención, ticket promedio. Alianza comercial. Indicadores asociados: nuevos clientes, cobertura.")
           img(src='@/assets/curso/temas/tema_3/img_3.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra cuatro diferentes ejemplos de mapeo de actividades vs. indicador. Texto de la figura: Lanzamiento de producto.  Indicadores asociados: ventas iniciales, awareness, ROI. Activación en eventos. Indicadores asociados: interacciones, leads generados. Campaña en redes sociales.  Indicadores asociados: alcance, engagement, CTR. Promoción en punto de venta. Indicadores asociados: redención, ticket promedio. Alianza comercial. Indicadores asociados: nuevos clientes, cobertura.")
@@ -90,7 +90,7 @@
       .col-12.col-lg-7.mb-lg-0.mb-0
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
           h5 Tabla 4.
-          span Matriz de priorización estratégica
+          span Matriz de priorización estratégica.
         .tabla-a.mb-5(data-aos="zoom-in-right")
           table
             caption 
@@ -143,7 +143,7 @@
           p.mb-3 La matriz de impacto vs. esfuerzo es una herramienta visual que permite clasificar acciones, indicadores o componentes según el beneficio que generan y el nivel de esfuerzo requerido para implementarlos. Se organiza en cuatro cuadrantes:
           .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
             h5 Tabla 5.
-            span Matriz de impacto - esfuerzo
+            span Matriz de impacto - esfuerzo.
           .tabla-a.mb-5(data-aos="zoom-in-right")
             table
               caption 

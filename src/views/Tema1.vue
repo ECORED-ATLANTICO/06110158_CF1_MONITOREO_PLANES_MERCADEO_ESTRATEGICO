@@ -98,7 +98,7 @@
       .col-12.col-lg-10 
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 1.
-          span Componentes básicos de un sistema de monitoreo
+          span Componentes básicos de un sistema de monitoreo.
         figure(data-aos="zoom-in-right").mb-3
           img(src='@/assets/curso/temas/tema_1/img_6.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra cuales son los componentes básicos un sistema de monitoreo. Texto de la figura: Sistema de monitoreo. Actividades del plan de mercadeo. Indicadores de desempeño (KPIs). Herramientas de seguimiento. Frecuencia de evaluación. Responsables del monitoreo. Formatos de documentación.")
           img(src='@/assets/curso/temas/tema_1/img_7.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra cuales son los componentes básicos un sistema de monitoreo. Texto de la figura: Sistema de monitoreo. Actividades del plan de mercadeo. Indicadores de desempeño (KPIs). Herramientas de seguimiento. Frecuencia de evaluación. Responsables del monitoreo. Formatos de documentación.")
@@ -180,7 +180,7 @@
       .col-12.col-lg-10 
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 2.
-          span Tipos de monitoreo y sus características
+          span Tipos de monitoreo y sus características.
         figure(data-aos="zoom-in-right").mb-3
           img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura presenta los tipos de monitoreo mas utilizados en mercadeo y sus diferentes características. Texto de la Figura: Monitoreo operativo: seguimiento diario de acciones tácticas. Foco en ejecución. Monitoreo estratégico: evaluación periódica de objetivos y KPIs. Foco en resultados. Monitoreo participativo: involucra a diferentes actores (clientes, colaboradores). Foco en percepción y experiencia. Monitoreo automatizado: uso de herramientas tecnológicas para seguimiento en tiempo real. Foco en eficiencia y precisión.")
           img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura presenta los tipos de monitoreo mas utilizados en mercadeo y sus diferentes características. Texto de la Figura: Monitoreo operativo: seguimiento diario de acciones tácticas. Foco en ejecución. Monitoreo estratégico: evaluación periódica de objetivos y KPIs. Foco en resultados. Monitoreo participativo: involucra a diferentes actores (clientes, colaboradores). Foco en percepción y experiencia. Monitoreo automatizado: uso de herramientas tecnológicas para seguimiento en tiempo real. Foco en eficiencia y precisión.")
