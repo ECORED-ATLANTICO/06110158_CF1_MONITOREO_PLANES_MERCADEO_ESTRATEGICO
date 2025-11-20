@@ -25,6 +25,21 @@
           .mb-0
 
       .row.justify-content-center.align-items-center.mb-5
+        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+          figure
+            img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid")
+        .col-12.col-lg-7(data-aos="zoom-in-right")
+          p.mb-3 El sistema de monitoreo es un conjunto estructurado de procedimientos, herramientas y métricas diseñado para observar, medir y evaluar el desempeño de las estrategias de mercadeo frente a los objetivos establecidos en un plan estratégico. Su función principal es proporcionar información oportuna y confiable que permita identificar desviaciones, analizar tendencias del mercado y ajustar las acciones comerciales en tiempo real. Este sistema integra fuentes internas y externas de información, como indicadores de ventas, participación de mercado, comportamiento del consumidor y efectividad de las campañas, garantizando una toma de decisiones basada en datos y la mejora continua de los resultados organizacionales.
+
+      Separador
+
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10 
+          #t_1_2.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 1.2 Propósito
+          .mb-3
+      
+      .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
           p.mb-3 El propósito principal es garantizar que las actividades del plan de mercadeo se ejecuten conforme a lo previsto, identificar desviaciones, y facilitar la toma de decisiones correctivas o preventivas.
           p.mb-0 El sistema de monitoreo cumple, entre otros, los siguientes propósitos esenciales:
@@ -56,33 +71,19 @@
                   h5.mb-3 Rendición de cuentas
                   p.mb-0 La cultura de monitoreo promueve que los responsables de mercadeo deban mostrar resultados, y permite conectar las actividades de mercadeo con los resultados organizacionales (financieros, operativos).
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
-          figure
-            img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid")
-        .col-12.col-lg-7(data-aos="zoom-in-right")
-          p.mb-3 El sistema de monitoreo es un conjunto estructurado de procedimientos, herramientas y métricas diseñado para observar, medir y evaluar el desempeño de las estrategias de mercadeo frente a los objetivos establecidos en un plan estratégico. Su función principal es proporcionar información oportuna y confiable que permita identificar desviaciones, analizar tendencias del mercado y ajustar las acciones comerciales en tiempo real. Este sistema integra fuentes internas y externas de información, como indicadores de ventas, participación de mercado, comportamiento del consumidor y efectividad de las campañas, garantizando una toma de decisiones basada en datos y la mejora continua de los resultados organizacionales.
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10(data-aos="zoom-in-right")
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
+              .row.justify-content-center.align-items-center
+                .col-10.col-lg-10
+                  p.cita-decorada__texto.mb-2.p-3 Por ejemplo, una empresa como <em>Rappi</em> utiliza sistemas de monitoreo para seguir el desempeño de sus campañas promocionales por segmento, ajustando en tiempo real las ofertas según el comportamiento del usuario, esto le permite optimizar recursos y mejorar la experiencia del cliente.
+                .col-2.col-lg-2.d-none.d-lg-block
+                  figure
+                    img(src='@/assets/curso/temas/tema_1/img_5.png', class="cita-decorada__imagen-flotante-1")
 
     Separador
 
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10 
-        #t_1_2.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 1.2 Propósito
-        .mb-3
-    
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10(data-aos="zoom-in-right")
-        .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
-            .row.justify-content-center.align-items-center
-              .col-10.col-lg-10
-                p.cita-decorada__texto.mb-2.p-3 Por ejemplo, una empresa como <em>Rappi</em> utiliza sistemas de monitoreo para seguir el desempeño de sus campañas promocionales por segmento, ajustando en tiempo real las ofertas según el comportamiento del usuario, esto le permite optimizar recursos y mejorar la experiencia del cliente.
-              .col-2.col-lg-2.d-none.d-lg-block
-                figure
-                  img(src='@/assets/curso/temas/tema_1/img_5.png', class="cita-decorada__imagen-flotante-1")
-
-    Separador 
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10 
         #t_1_3.titulo-segundo.color-acento-contenido
@@ -263,7 +264,6 @@
                   td Analíticos.
                   td Sociales.
                   td Tecnológicos.
- 
 </template>
 
 <script>
