@@ -12,11 +12,14 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-3 Think about all the possibilities. A good composition is the result of a hierarchy consisting of clearly contrasting elements set with distinct alignments containing irregular intervals of negative space. Nothing of without working at it. Be impossible to ignore.
+        p.mb-3 Un sistema de monitoreo eficaz se construye sobre componentes claramente definidos que permiten observar, analizar y ajustar el desempeño del plan de mercadeo.
         br
         br
-        p.mb-0 Stand so tall that they can’t look past you. Saul Bass on failure: Failure is built into creativity… the creative act involves this element of ‘newness’ and ‘experimentalism,’ then one must expect accept possibility of failure. 
-    
+        p.mb-3 Este capítulo profundiza en los elementos clave que conforman dicho sistema: las actividades del plan como base del seguimiento, los indicadores de desempeño (KPIs), las herramientas asociadas y los criterios de frecuencia y responsabilidad.  
+        br
+        br
+        p.mb-0 A través de ejemplos aplicados, se busca que el aprendiz comprenda cómo estos componentes se articulan para garantizar la trazabilidad, pertinencia y utilidad del monitoreo estratégico.
+
     .bg_img_4.mb-3
 
       Separador
