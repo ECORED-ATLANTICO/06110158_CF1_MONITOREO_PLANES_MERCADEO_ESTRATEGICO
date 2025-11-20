@@ -70,7 +70,6 @@
       .col-12.col-lg-12
         p.mb-3 No todas las actividades ni todos los indicadores tienen el mismo peso estratégico, la priorización permite enfocar el monitoreo en los componentes que generan mayor valor, impacto o riesgo.
         p.mb-5 <b>Criterios de priorización:</b>
-
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -203,6 +202,22 @@
             h5 Identificación del problema
             p.mb-3 Se define con claridad el fenómeno que se desea analizar. Puede tratarse de quejas de clientes, disminución en ventas, errores en campañas, bajo rendimiento de productos, entre otros. El objetivo es establecer qué se va a medir y por qué, para orientar correctamente la recolección de datos.
             p.mb-0 <B>Ejemplo:</B> determinar las causas principales de la disminución de ventas en el último trimestre.
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_15.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5 
+            p.mb-3 
+            p.mb-0 <B>Ejemplo:</B> 
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_15.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5 
+            p.mb-3 
+            p.mb-0 <B>Ejemplo:</B> 
           .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_3/img_15.png')

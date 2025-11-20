@@ -18,6 +18,7 @@
         p.mb-5 Estos procedimientos permiten que el monitoreo sea sistemático, replicable y útil para la toma de decisiones, en este capítulo se abordan el concepto y la finalidad de los procedimientos, las etapas que conforman el proceso de supervisión, la importancia de la documentación técnica y la trazabilidad, y las buenas prácticas que facilitan su implementación.
 
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10
         #t_4_1.titulo-segundo.color-acento-contenido
@@ -32,6 +33,7 @@
         p.mb-3 Los procedimientos de monitoreo son el conjunto estructurado de métodos, actividades y pautas operativas que permiten observar, registrar, analizar y evaluar de manera sistemática el desarrollo de las estrategias, acciones y resultados establecidos en un plan de mercadeo. Su propósito es verificar el cumplimiento de los objetivos, detectar desviaciones, generar alertas tempranas y proporcionar información confiable para la toma de decisiones correctivas o de mejora.
 
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-12
         #t_4_2.titulo-segundo.color-acento-contenido
@@ -64,6 +66,7 @@
           <b>Fuente:</b> SENA, 2025.
 
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-12
         #t_4_3.titulo-segundo.color-acento-contenido
@@ -100,6 +103,7 @@
         p.mb-5 Estas etapas se caracterizan por su secuencialidad, su enfoque en la mejora continua y su capacidad de adaptación a distintos tipos de actividades. En <b>Grupo Éxito</b>, por ejemplo, el monitoreo de campañas promocionales sigue esta lógica: se planifica el seguimiento, se recolectan datos de ventas y comportamiento del cliente, se analizan los resultados en dashboards, se comparten los hallazgos con los equipos de tienda y se ajustan las estrategias de precios o comunicación, esta estructura permite mantener el control sobre las acciones y mejorar su efectividad en tiempo real.
 
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10
         #t_4_4.titulo-segundo.color-acento-contenido
@@ -137,6 +141,7 @@
         p.mb-3 Gracias a esta trazabilidad, la empresa puede identificar patrones, corregir desviaciones y tomar decisiones basadas en evidencia.
  
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10
         #t_4_5.titulo-segundo.color-acento-contenido
