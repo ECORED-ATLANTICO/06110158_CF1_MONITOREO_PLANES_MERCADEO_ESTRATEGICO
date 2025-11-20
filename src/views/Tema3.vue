@@ -247,23 +247,23 @@
           figure
             img(src="@/assets/curso/temas/tema_3/img_24.png", class="img-fluid")
         .col-12.col-lg-7(data-aos="zoom-in-right")
-            p.mb-3 La alineación implica revisar periódicamente si las acciones ejecutadas están siendo monitoreadas de forma pertinente y suficiente, esto requiere ajustes tanto en los indicadores como en las herramientas y frecuencias.
-            p.mb-3 En <b>Sura</b>, se identificó que las acciones de educación financiera no estaban siendo monitoreadas adecuadamente, se ajustaron los KPIs para incluir métricas de participación, satisfacción y retención del contenido.
-            .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
-              p.mb-3 <b>Tipos de ajustes comunes:</b>
-              ul.list-unstyled.mb-3
-                li.d-flex.align-items-start.mb-0
-                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
-                  span Inclusión de nuevos indicadores, por ejemplo, en un <em>webinar</em> educativo, inclusión de KPIs de retención.
-                li.d-flex.align-items-start.mb-0
-                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
-                  span Cambio en la frecuencia de seguimiento, por ejemplo, en una campaña de <em>email</em>, cambio de frecuencia a semanal.
-                li.d-flex.align-items-start.mb-0
-                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
-                  span Redefinición de responsables, por ejemplo, en la activación en <em>retail</em>, asignación de nuevo responsable.
-                li.d-flex.align-items-start.mb-0
-                  i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
-                  span Integración de nuevas herramientas, por ejemplo, en la promoción digital, integración con <em>dashboard</em> automatizado.
+          p.mb-3 La alineación implica revisar periódicamente si las acciones ejecutadas están siendo monitoreadas de forma pertinente y suficiente, esto requiere ajustes tanto en los indicadores como en las herramientas y frecuencias.
+          p.mb-3 En <b>Sura</b>, se identificó que las acciones de educación financiera no estaban siendo monitoreadas adecuadamente, se ajustaron los KPIs para incluir métricas de participación, satisfacción y retención del contenido.
+          .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
+            p.mb-3 <b>Tipos de ajustes comunes:</b>
+            ul.list-unstyled.mb-3
+              li.d-flex.align-items-start.mb-0
+                i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                span Inclusión de nuevos indicadores, por ejemplo, en un <em>webinar</em> educativo, inclusión de KPIs de retención.
+              li.d-flex.align-items-start.mb-0
+                i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                span Cambio en la frecuencia de seguimiento, por ejemplo, en una campaña de <em>email</em>, cambio de frecuencia a semanal.
+              li.d-flex.align-items-start.mb-0
+                i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                span Redefinición de responsables, por ejemplo, en la activación en <em>retail</em>, asignación de nuevo responsable.
+              li.d-flex.align-items-start.mb-0
+                i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
+                span Integración de nuevas herramientas, por ejemplo, en la promoción digital, integración con <em>dashboard</em> automatizado.
             
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-lg-10 

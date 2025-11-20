@@ -9,13 +9,13 @@
 
     .bg_img_4.mb-3
 
-      .row.justify-content-center.align-items-start.mb-3
-        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
-          figure
-            img(src="@/assets/curso/temas/tema_4/img_1.png", class="img-fluid")
-        .col-12.col-lg-8(data-aos="zoom-in-right")
-          p.mb-3 Los procedimientos de monitoreo son el componente operativo que da vida al sistema de seguimiento en mercadeo estratégico, no basta con definir indicadores o herramientas; es necesario establecer cómo se aplican, quién los ejecuta y en qué condiciones.
-          p.mb-5 Estos procedimientos permiten que el monitoreo sea sistemático, replicable y útil para la toma de decisiones, en este capítulo se abordan el concepto y la finalidad de los procedimientos, las etapas que conforman el proceso de supervisión, la importancia de la documentación técnica y la trazabilidad, y las buenas prácticas que facilitan su implementación.
+    .row.justify-content-center.align-items-start.mb-3
+      .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        figure
+          img(src="@/assets/curso/temas/tema_4/img_1.png", class="img-fluid")
+      .col-12.col-lg-8(data-aos="zoom-in-right")
+        p.mb-3 Los procedimientos de monitoreo son el componente operativo que da vida al sistema de seguimiento en mercadeo estratégico, no basta con definir indicadores o herramientas; es necesario establecer cómo se aplican, quién los ejecuta y en qué condiciones.
+        p.mb-5 Estos procedimientos permiten que el monitoreo sea sistemático, replicable y útil para la toma de decisiones, en este capítulo se abordan el concepto y la finalidad de los procedimientos, las etapas que conforman el proceso de supervisión, la importancia de la documentación técnica y la trazabilidad, y las buenas prácticas que facilitan su implementación.
 
     Separador
     .row.justify-content-center.align-items-center.mb-0
@@ -111,7 +111,7 @@
         figure
           img(src="@/assets/curso/temas/tema_4/img_11.svg", class="img-fluid")
       .col-12.col-lg-9(data-aos="zoom-in-right")
-        p.mb-3 La documentación técnica es esencial para asegurar la trazabilidad del sistema de monitoreo, esta documentación incluye fichas técnicas, bitácoras de campo, informes de supervisión, matrices de indicadores y protocolos operativos (Lambin & Schuiling, 2012). 
+          p.mb-3 La documentación técnica es esencial para asegurar la trazabilidad del sistema de monitoreo, esta documentación incluye fichas técnicas, bitácoras de campo, informes de supervisión, matrices de indicadores y protocolos operativos (Lambin & Schuiling, 2012). 
 
     .row.justify-content-center.align-items-start.mb-3
       .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -122,15 +122,15 @@
           img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-fluid")
     
     .row.justify-content-center.align-items-center.mb-5
-          .col-12.col-lg-10(data-aos="zoom-in-right")
-            .cita-decorada
-              blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
-                .row.justify-content-center.align-items-center
-                  .col-2.col-lg-3.d-none.d-lg-block
-                    figure
-                      img(src='@/assets/curso/temas/tema_4/img_13.png', class="cita-decorada__imagen-flotante-4")
-                  .col-10.col-lg-9
-                    p.cita-decorada__texto.mb-2.p-3 En <b>Davivienda</b>, cada campaña cuenta con una ficha técnica que describe los objetivos, responsables, indicadores, herramientas y procedimientos de monitoreo asociados. Además, se utilizan bitácoras digitales para registrar observaciones en campo, lo que permite comparar la ejecución real con la planeada, esta documentación se almacena en plataformas compartidas que facilitan el acceso y la revisión por parte de diferentes áreas. 
+      .col-12.col-lg-10(data-aos="zoom-in-right")
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-3
+            .row.justify-content-center.align-items-center
+              .col-2.col-lg-3.d-none.d-lg-block
+                figure
+                  img(src='@/assets/curso/temas/tema_4/img_13.png', class="cita-decorada__imagen-flotante-5")
+              .col-10.col-lg-9
+                p.cita-decorada__texto.mb-2.p-3 En <b>Davivienda</b>, cada campaña cuenta con una ficha técnica que describe los objetivos, responsables, indicadores, herramientas y procedimientos de monitoreo asociados. Además, se utilizan bitácoras digitales para registrar observaciones en campo, lo que permite comparar la ejecución real con la planeada, esta documentación se almacena en plataformas compartidas que facilitan el acceso y la revisión por parte de diferentes áreas. 
 
     .row.justify-content-center.align-items-start.mb-3
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -143,12 +143,15 @@
           .h2(data-aos="fade-right") 4.5 Trazabilidad
         .mb-3
     
-    .row.justify-content-center.align-items-center.mb-5()
-      .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
-        figure
-          img(src="@/assets/curso/temas/tema_4/img_14.svg", class="img-fluid")
-      .col-12.col-lg-9(data-aos="zoom-in-right")
-          p.mb-3 La implementación de procedimientos de monitoreo requiere no solo claridad técnica, sino también compromiso organizacional y cultura de mejora continua, para una adecuada trazabilidad se requieren de algunas buenas prácticas que incluyen:
+    .row.justify-content-center.align-items-start.mb-3
+      .col-12.col-lg-10
+        .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
+          .row.justify-content-center.align-items-start.mb-0
+            .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
+              figure
+                img(src="@/assets/curso/temas/tema_4/img_14.svg", class="img-fluid")
+            .col-12.col-lg-11(data-aos="zoom-in-right")
+              p.mb-1 La implementación de procedimientos de monitoreo requiere no solo claridad técnica, sino también compromiso organizacional y cultura de mejora continua, para una adecuada trazabilidad se requieren de algunas buenas prácticas que incluyen:
       
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10 
@@ -168,13 +171,13 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")
         .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
             .row.justify-content-center.align-items-center
               .col-10.col-lg-9
                 p.cita-decorada__texto.mb-2.p-3 <b>Ejemplo empresarial.</b> En <b>Rappi</b>, los procedimientos de monitoreo para campañas de fidelización se diseñan de forma colaborativa entre los equipos de marketing, tecnología y atención al cliente, antes de su implementación, se realizan pruebas piloto, se ajustan los formatos y se capacita a los responsables,  además, se promueve la retroalimentación continua mediante reuniones semanales y encuestas internas; esta cultura participativa ha permitido mejorar la calidad del monitoreo, aumentar la adherencia a los procedimientos y generar aprendizajes compartidos.
               .col-2.col-lg-3.d-none.d-lg-block
                 figure
-                  img(src='@/assets/curso/temas/tema_4/img_17.png', class="cita-decorada__imagen-flotante-4")
+                  img(src='@/assets/curso/temas/tema_4/img_17.png', class="cita-decorada__imagen-flotante-6")
 
 </template>
 
