@@ -125,12 +125,14 @@
             p.mb-0 Los formatos, por su parte, estandarizan la recolección de información, facilitando la comparación entre actividades, periodos o regiones, estos recursos deben ser claros, accesibles y adaptables a distintos niveles de experiencia y contexto organizacional.
           
       .col-12.col-lg-5(data-aos="zoom-in-left")
-        .bloque-texto-b.color-acento-contenido-5.p-4
+        .bloque-texto-b.color-acento-contenido-5.p-2
           i.fas.fa-quote-right
           .bloque-texto-b__texto
             p.mb-3 <strong>Los manuales y formatos no solo facilitan la operación, sino que fortalecen la cultura de seguimiento y mejora continua.</strong>
-            p.mb-0 (Lambin & Schuiling, 2012).
-          i.fas.fa-square-fa
+            <br><br>
+            p.mb-3 (Lambin & Schuiling, 2012).
+            <br><br>
+          i.fas.fa-square-full(style="text-align: right;")
     
     .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-12 
@@ -149,7 +151,7 @@
               tbody
                 tr
                   td Manuales de uso por herramienta.
-                  td(style="text-align: left;") Documentos que explican paso a paso cómo utilizar cada herramienta de seguimiento.
+                  td(style="text-align: left; pa") Documentos que explican paso a paso cómo utilizar cada herramienta de seguimiento.
                   td(style="text-align: left;") Garantizan el uso correcto, reducen errores y facilitan la capacitación de nuevos responsables.
                 tr
                   td Formatos de recolección de datos.
