@@ -35,25 +35,25 @@
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--5
+                  .tarjeta--9
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Pertinencia estratégica
                 .tarjeta--slider__content.text-center El componente debe estar vinculado a un objetivo clave.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--6
+                  .tarjeta--10
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Viabilidad operativa
                 .tarjeta--slider__content.text-center Debe poder ser implementado con los recursos disponibles.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--7
+                  .tarjeta--11
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Complementariedad
                 .tarjeta--slider__content.text-center debe aportar información que complemente otros indicadores
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--8
+                  .tarjeta--12
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Trazabilidad
                 .tarjeta--slider__content.text-center debe permitir seguir el flujo de información desde la fuente hasta la decisión.
     
