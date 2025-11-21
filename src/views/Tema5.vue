@@ -131,6 +131,43 @@
             p.mb-3 <strong>Los manuales y formatos no solo facilitan la operación, sino que fortalecen la cultura de seguimiento y mejora continua.</strong>
             p.mb-0 (Lambin & Schuiling, 2012).
           i.fas.fa-square-fa
+    
+    .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-12 
+          .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
+            h5 Tabla 6.
+            span Recursos operativos para el uso de herramientas de seguimiento.
+          .tabla-a.mb-5(data-aos="zoom-in-right")
+            table
+              caption 
+                p <b>Fuente:</b> SENA, 2025
+              thead
+                tr
+                  th.col-3.col-lg-3 Recurso operativo
+                  th.col-4.col-lg-4 Descripción
+                  th.col-5.col-lg-5 Importancia en el monitoreo
+              tbody
+                tr
+                  td Manuales de uso por herramienta.
+                  td(style="text-align: left;") Documentos que explican paso a paso cómo utilizar cada herramienta de seguimiento.
+                  td(style="text-align: left;") Garantizan el uso correcto, reducen errores y facilitan la capacitación de nuevos responsables.
+                tr
+                  td Formatos de recolección de datos.
+                  td(style="text-align: left;") Plantillas estructuradas para registrar información en campo o en línea.
+                  td(style="text-align: left;") Permiten estandarizar la captura de datos y asegurar la trazabilidad del proceso.
+                tr
+                  td Guías de interpretación de indicadores.
+                  td(style="text-align: left;") Documentos que explican cómo leer, analizar y contextualizar los KPIs.
+                  td(style="text-align: left;") Facilitan la toma de decisiones basada en evidencia y evitan interpretaciones erróneas.
+                tr
+                  td Protocolos de reporte y retroalimentación.
+                  td(style="text-align: left;") Procedimientos que definen cómo se comunican los resultados y se generan ajustes.
+                  td(style="text-align: left;") Promueven la mejora continua, la transparencia y la articulación entre equipos.
+                tr
+                  td Plantillas de evaluación de actividades.
+                  td(style="text-align: left;") Herramientas para valorar el cumplimiento, calidad y resultados de las acciones.
+                  td(style="text-align: left;") Ayudan a identificar desviaciones, validar logros y ajustar estrategias operativas.
+                
 
 
 </template>
