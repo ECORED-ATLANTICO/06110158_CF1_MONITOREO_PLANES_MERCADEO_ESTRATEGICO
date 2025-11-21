@@ -197,18 +197,82 @@
           p.mb-5 Es una técnica utilizada para identificar y priorizar los factores más significativos que influyen en un resultado. Se basa en el Principio de Pareto o regla del 80/20, propuesto por el economista italiano Vilfredo Pareto, quien observó que aproximadamente el 80 % de los efectos provienen del 20 % de las causas. esta herramienta ayuda a detectar cuáles componentes, variables o problemas tienen mayor incidencia sobre el desempeño de un plan de marketing. Por ejemplo, puede revelar que el 80 % de las quejas de los clientes provienen del 20 % de los productos, o que el 80 % de las ventas se concentra en el 20 % de los clientes o canales de distribución. Las etapas del análisis son las siguientes:
       
     .bg_img_7.mb-5
-      .row.justify-content-center.align-items-center.mb-0
-        .col-12.col-lg-12
-          SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-5
-            .row.justify-content-center.align-items-center
-              .col-12.col-lg-5.order-2.order-lg-1.mb-3
-                h5 Identificación del problema
-                p.mb-3 Se define con claridad el fenómeno que se desea analizar. Puede tratarse de quejas de clientes, disminución en ventas, errores en campañas, bajo rendimiento de productos, entre otros. El objetivo es establecer qué se va a medir y por qué, para orientar correctamente la recolección de datos.
-                p.mb-0 <B>Ejemplo:</B> determinar las causas principales de la disminución de ventas en el último trimestre.
-              .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
-                figure
-                  img(src='@/assets/curso/temas/tema_3/img_15.png')
-
+      SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-5
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-3
+            h5 Identificación del problema
+            p.mb-3 Se define con claridad el fenómeno que se desea analizar. Puede tratarse de quejas de clientes, disminución en ventas, errores en campañas, bajo rendimiento de productos, entre otros. El objetivo es establecer qué se va a medir y por qué, para orientar correctamente la recolección de datos.
+            p.mb-0 <B>Ejemplo:</B> determinar las causas principales de la disminución de ventas en el último trimestre.
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_15.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-3
+            h5 Recolección de Datos
+            p.mb-0 Se recopilan datos cuantitativos y verificables relacionados con el problema identificado.
+            p.mb-0 Estos datos pueden obtenerse de informes de ventas, registros de atención al cliente, reportes de desempeño, encuestas o bases de datos de marketing.
+            p.mb-0 Es fundamental que la información sea precisa, completa y comparable.
+            p.mb-0 <B>Ejemplo:</B> registrar el número de veces que se presenta cada causa (falla de distribución, poca publicidad, precios altos, baja fidelización, etc.).
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_16.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-3
+            h5 Clasificación de las causas
+            p.mb-0 Se agrupan las causas o factores en categorías representativas, asegurando que cada una sea distinta y medible.
+            p.mb-0 Luego se cuentan o suman las frecuencias o valores que representa cada causa.
+            p.mb-0 <B>Ejemplo:</B> 
+            p.mb-0 Falla de distribución: 40 casos. 
+            p.mb-0 Precios altos: 25 casos. 
+            p.mb-0 Publicidad insuficiente: 15 casos
+            p.mb-0 Competencia agresiva: 10 casos
+            p.mb-0 Otros: 5 casos
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_17.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-3
+            h5 Ordenamiento por nivel de importancia
+            p.mb-0 Una vez categorizadas, se ordenan las causas de forma descendente, es decir, de la más frecuente o significativa a la menos relevante.
+            p.mb-0 Este orden es la base para construir el diagrama y visualizar la concentración del problema.
+            p.mb-0 <B>Ejemplo:</B>
+            p.mb-0 Falla de distribución (40).
+            p.mb-0 Precios altos (25).
+            p.mb-0 Publicidad insuficiente (15).
+            p.mb-0 Competencia agresiva (10).
+            p.mb-0 Otros (5).
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_18.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-3
+            h5 Cálculo y porcentaje acumulado
+            p.mb-3 Para cada categoría se calcula:
+            p.mb-0 Porcentaje individual = (Frecuencia de la causa / Total general) × 100
+            p.mb-3 Porcentaje acumulado, que se obtiene sumando progresivamente los porcentajes individuales.
+            p.mb-0 Esto permite identificar en qué punto se alcanza el 80 % del efecto total, según el principio de Pareto
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_19.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-3
+            h5 Construcción del diagrama Pareto
+            p.mb-0 Con los datos anteriores, se construye el gráfico de barras y línea acumulada:
+            p.mb-0 En el eje X se colocan las categorías ordenadas.
+            p.mb-0 En el eje Y izquierdo, las frecuencias. En el eje Y derecho, el porcentaje acumulado.
+            p.mb-0 Se traza una línea que muestra el avance acumulado hasta el 100 %. Esto facilita la identificación visual de las causas vitales (las primeras que suman el 80 % del problema).
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_20.png')
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-3
+            h5 Análisis y decisiones estratégicas
+            p.mb-3 Finalmente, se analiza el gráfico para determinar cuáles causas son prioritarias (las que están antes del punto del 80 %) y sobre cuáles se deben enfocar los recursos o acciones correctivas.
+            p.mb-0 El objetivo es actuar estratégicamente sobre pocas causas de alto impacto, en lugar de dispersar esfuerzos en muchas causas menores.
+          .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_21.png')
+    br
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10
         .titulo-con-imagen.mb-3(data-aos="fade-right")

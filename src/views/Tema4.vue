@@ -32,6 +32,7 @@
         p.mb-3 Los procedimientos de monitoreo son el conjunto estructurado de métodos, actividades y pautas operativas que permiten observar, registrar, analizar y evaluar de manera sistemática el desarrollo de las estrategias, acciones y resultados establecidos en un plan de mercadeo. Su propósito es verificar el cumplimiento de los objetivos, detectar desviaciones, generar alertas tempranas y proporcionar información confiable para la toma de decisiones correctivas o de mejora.
 
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-12
         #t_4_2.titulo-segundo.color-acento-contenido
