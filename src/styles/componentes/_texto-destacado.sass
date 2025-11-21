@@ -40,9 +40,9 @@
     content: ''
     display: block
     position: absolute
-    top: 40%
+    top: 10%
     bottom: 0
-    left: 35%
+    left: 20%
     right: 0
   &__texto
     position: relative
@@ -51,11 +51,13 @@
   i
     font-size: 2.5em
     color: $color-acento-contenido
+    z-index: 110001
     &:first-of-type
       margin-right: 15px
     &:last-of-type
       margin-left: 15px
       vertical-align: text-top
+
 
   &.color-primario
     &:before
@@ -67,6 +69,7 @@
     &:before
       background-color: $color-acento-contenido
   &.color-acento-contenido-5
+    z-index: 0
     &:before
       background-color: $color-acento-contenido-5
   &.color-acento-botones

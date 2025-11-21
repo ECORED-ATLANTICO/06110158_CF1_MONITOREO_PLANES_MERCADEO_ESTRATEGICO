@@ -104,33 +104,33 @@
 
 
     Separador
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10
         #t_5_3.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 5.3 Manuales
-        .mb-3
-    
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10
-        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
-          figure
-            img(src="@/assets/curso/temas/tema_5/img_8.png", class="img-fluid")
-        .col-12.col-lg-5(data-aos="zoom-in-right")
-          p.mb-2 Para que las herramientas de seguimiento sean efectivas, es necesario acompañarlas de manuales y formatos que orienten su uso operativo, los manuales explican paso a paso cómo utilizar cada herramienta, qué datos registrar, cómo interpretar los resultados y cómo reportarlos. 
-        .row.justify-content-center.align-items-start.mb-3
-          .col-4.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
+
+    .row.justify-content-center.align-items-start.mb-5
+      .col-12.col-lg-7
+        .row.justify-content-center.align-items-start
+          .col-10.col-lg-4.mb-lg-0.mb-4(data-aos="zoom-in-right")
+            figure
+              img(src="@/assets/curso/temas/tema_5/img_8.png", class="img-fluid")
+          .col-12.col-lg-8.mb-lg-0.mb-4(data-aos="zoom-in-right")
+            p.mb-4 Para que las herramientas de seguimiento sean efectivas, es necesario acompañarlas de manuales y formatos que orienten su uso operativo, los manuales explican paso a paso cómo utilizar cada herramienta, qué datos registrar, cómo interpretar los resultados y cómo reportarlos.
+        .row.justify-content-center.align-items-start
+          .col-3.col-lg-2.mb-lg-0.mb-3
             figure
               img(src="@/assets/curso/temas/tema_5/img_9.svg", class="img-fluid")
-          .col-12.col-lg-11(data-aos="zoom-in-right")
-            p.mb-2 Los formatos, por su parte, estandarizan la recolección de información, facilitando la comparación entre actividades, periodos o regiones, estos recursos deben ser claros, accesibles y adaptables a distintos niveles de experiencia y contexto organizacional. 
-      .col-12.col-lg-5
+          .col-12.col-lg-10
+            p.mb-0 Los formatos, por su parte, estandarizan la recolección de información, facilitando la comparación entre actividades, periodos o regiones, estos recursos deben ser claros, accesibles y adaptables a distintos niveles de experiencia y contexto organizacional.
+          
+      .col-12.col-lg-5(data-aos="zoom-in-left")
         .bloque-texto-b.color-acento-contenido-5.p-4
           i.fas.fa-quote-right
           .bloque-texto-b__texto
-            h4.mb-3.ps-3 Los manuales y formatos no solo facilitan la operación, sino que fortalecen la cultura de seguimiento y mejora continua.
-            br
+            p.mb-3 <strong>Los manuales y formatos no solo facilitan la operación, sino que fortalecen la cultura de seguimiento y mejora continua.</strong>
             p.mb-0 (Lambin & Schuiling, 2012).
-          i.fas.fa-square-full
+          i.fas.fa-square-fa
 
 
 </template>
