@@ -9,21 +9,21 @@
 
     .bg_img_4.mb-3
 
-    .row.justify-content-center.align-items-start.mb-3
-      .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
-        figure
-          img(src="@/assets/curso/temas/tema_4/img_1.png", class="img-fluid")
-      .col-12.col-lg-8(data-aos="zoom-in-right")
-        p.mb-3 Los procedimientos de monitoreo son el componente operativo que da vida al sistema de seguimiento en mercadeo estratégico, no basta con definir indicadores o herramientas; es necesario establecer cómo se aplican, quién los ejecuta y en qué condiciones.
-        p.mb-5 Estos procedimientos permiten que el monitoreo sea sistemático, replicable y útil para la toma de decisiones, en este capítulo se abordan el concepto y la finalidad de los procedimientos, las etapas que conforman el proceso de supervisión, la importancia de la documentación técnica y la trazabilidad, y las buenas prácticas que facilitan su implementación.
+      .row.justify-content-center.align-items-start.mb-3
+        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+          figure
+            img(src="@/assets/curso/temas/tema_4/img_1.png", class="img-fluid")
+        .col-12.col-lg-8(data-aos="zoom-in-right")
+          p.mb-3 Los procedimientos de monitoreo son el componente operativo que da vida al sistema de seguimiento en mercadeo estratégico, no basta con definir indicadores o herramientas; es necesario establecer cómo se aplican, quién los ejecuta y en qué condiciones.
+          p.mb-5 Estos procedimientos permiten que el monitoreo sea sistemático, replicable y útil para la toma de decisiones, en este capítulo se abordan el concepto y la finalidad de los procedimientos, las etapas que conforman el proceso de supervisión, la importancia de la documentación técnica y la trazabilidad, y las buenas prácticas que facilitan su implementación.
 
-    Separador
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10
-        #t_4_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.1 Concepto
-        .mb-3
-    
+      Separador
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10
+          #t_4_1.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 4.1 Concepto
+          .mb-3
+      
     .row.justify-content-center.align-items-start.mb-3
       .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
@@ -82,30 +82,30 @@
   
     .bg_img_6.mb-3
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10 
-        .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
-          h5 Figura 6.
-          span Etapas del proceso de supervisión.
-        figure(data-aos="zoom-in-right").mb-3
-          img(src='@/assets/curso/temas/tema_4/img_8.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra las  diferentes etapas de supervisión, en el proceso de monitoreo. Texto de la figura: Planificación: establece qué se va a monitorear, con qué recursos y en qué momentos. Recolección de información: Implica el uso de formatos, checklists o plataformas digitales. Análisis: transforma los datos en información útil para la toma de decisiones. Retroalimentación: comunica los hallazgos a los equipos involucrados Ajuste de acciones:  permite modificar las acciones según los resultados obtenidos")
-          img(src='@/assets/curso/temas/tema_4/img_9.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra las  diferentes etapas de supervisión, en el proceso de monitoreo. Texto de la figura: Planificación: establece qué se va a monitorear, con qué recursos y en qué momentos. Recolección de información: Implica el uso de formatos, checklists o plataformas digitales. Análisis: transforma los datos en información útil para la toma de decisiones. Retroalimentación: comunica los hallazgos a los equipos involucrados Ajuste de acciones:  permite modificar las acciones según los resultados obtenidos")
-        figcaption(data-aos="zoom-in-right") 
-          <b>Fuente:</b> SENA, 2025.
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-10 
+          .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
+            h5 Figura 6.
+            span Etapas del proceso de supervisión.
+          figure(data-aos="zoom-in-right").mb-3
+            img(src='@/assets/curso/temas/tema_4/img_8.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra las  diferentes etapas de supervisión, en el proceso de monitoreo. Texto de la figura: Planificación: establece qué se va a monitorear, con qué recursos y en qué momentos. Recolección de información: Implica el uso de formatos, checklists o plataformas digitales. Análisis: transforma los datos en información útil para la toma de decisiones. Retroalimentación: comunica los hallazgos a los equipos involucrados Ajuste de acciones:  permite modificar las acciones según los resultados obtenidos")
+            img(src='@/assets/curso/temas/tema_4/img_9.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra las  diferentes etapas de supervisión, en el proceso de monitoreo. Texto de la figura: Planificación: establece qué se va a monitorear, con qué recursos y en qué momentos. Recolección de información: Implica el uso de formatos, checklists o plataformas digitales. Análisis: transforma los datos en información útil para la toma de decisiones. Retroalimentación: comunica los hallazgos a los equipos involucrados Ajuste de acciones:  permite modificar las acciones según los resultados obtenidos")
+          figcaption(data-aos="zoom-in-right") 
+            <b>Fuente:</b> SENA, 2025.
 
-    .row.justify-content-center.align-items-start.mb-3
-      .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
-        figure
-          img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid")
-      .col-12.col-lg-8(data-aos="zoom-in-right")
-        p.mb-5 Estas etapas se caracterizan por su secuencialidad, su enfoque en la mejora continua y su capacidad de adaptación a distintos tipos de actividades. En <b>Grupo Éxito</b>, por ejemplo, el monitoreo de campañas promocionales sigue esta lógica: se planifica el seguimiento, se recolectan datos de ventas y comportamiento del cliente, se analizan los resultados en dashboards, se comparten los hallazgos con los equipos de tienda y se ajustan las estrategias de precios o comunicación, esta estructura permite mantener el control sobre las acciones y mejorar su efectividad en tiempo real.
+      .row.justify-content-center.align-items-start.mb-3
+        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+          figure
+            img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid")
+        .col-12.col-lg-8(data-aos="zoom-in-right")
+          p.mb-5 Estas etapas se caracterizan por su secuencialidad, su enfoque en la mejora continua y su capacidad de adaptación a distintos tipos de actividades. En <b>Grupo Éxito</b>, por ejemplo, el monitoreo de campañas promocionales sigue esta lógica: se planifica el seguimiento, se recolectan datos de ventas y comportamiento del cliente, se analizan los resultados en dashboards, se comparten los hallazgos con los equipos de tienda y se ajustan las estrategias de precios o comunicación, esta estructura permite mantener el control sobre las acciones y mejorar su efectividad en tiempo real.
 
-    Separador
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10
-        #t_4_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.4 Documentación
-        .mb-3
+      Separador
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10
+          #t_4_4.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 4.4 Documentación
+          .mb-3
 
     .row.justify-content-center.align-items-start.mb-3
       .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
