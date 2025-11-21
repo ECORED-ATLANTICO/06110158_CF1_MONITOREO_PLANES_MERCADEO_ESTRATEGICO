@@ -40,18 +40,17 @@
     content: ''
     display: block
     position: absolute
-    top: 10%
+    top: 50%
     bottom: 0
-    left: 15%
-    right: 0
+    left: 33%
+    right: 0%
   &__texto
     position: relative
     *
       display: inline
   i
     font-size: 2.5em
-    color: $color-acento-contenido
-    z-index: 110001
+    color: $color-primario
     &:first-of-type
       margin-right: 15px
     &:last-of-type
@@ -62,6 +61,9 @@
   &.color-primario
     &:before
       background-color: $color-primario
+  &.color-primario-5
+    &:before
+      background-color: $color-primario-5
   &.color-secundario
     &:before
       background-color: $color-secundario

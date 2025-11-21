@@ -56,7 +56,7 @@
               span Evitar indicadores genéricos que no reflejen la acción.
             li.d-flex.align-items-start.mb-0
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
-              span o	Validar que los datos sean accesibles y confiables.      
+              span Validar que los datos sean accesibles y confiables.      
 
     Separador
 
