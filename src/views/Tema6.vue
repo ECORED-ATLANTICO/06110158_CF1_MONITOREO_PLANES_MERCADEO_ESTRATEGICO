@@ -11,10 +11,10 @@
       .bloque-texto-t__img.mb-0
         figure
           img(src='@/assets/curso/temas/tema_6/img_1.png')
-      .bloque-texto-t__texto.col-10.mb-0.p-4
+      .bloque-texto-t__texto.col-8.mb-0.p-4
         p.mb-0 Los indicadores de seguimiento son el instrumento clave para evaluar el progreso de las acciones de mercadeo, permiten transformar datos en información útil, visibilizar resultados, identificar desviaciones y tomar decisiones estratégicas. 
         
-    .bg_img_6.mb-3
+    .bg_img_12.mb-3
 
       .row.justify-content-center.align-items-center.mb-0
         .col-4.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
@@ -46,25 +46,25 @@
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3
-                    .tarjeta--5
+                    .tarjeta--9
                   .tarjeta--slider__title.mb-3.text-center.fw-bold Indicadores comerciales
                   .tarjeta--slider__content.text-center Volumen de ventas, participación de mercado, rentabilidad, rotación de inventarios.
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3
-                    .tarjeta--6
+                    .tarjeta--10
                   .tarjeta--slider__title.mb-3.text-center.fw-bold Indicadores de cliente
                   .tarjeta--slider__content.text-center Nivel de satisfacción, retención, fidelización, valor del cliente (CLV).
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3
-                    .tarjeta--7
+                    .tarjeta--11
                   .tarjeta--slider__title.mb-3.text-center.fw-bold Indicadores de comunicación y promoción
                   .tarjeta--slider__content.text-center Alcance de campañas, tasa de conversión, costo por adquisición, retorno sobre la inversión publicitaria (ROAS).
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3
-                    .tarjeta--8
+                    .tarjeta--12
                   .tarjeta--slider__title.mb-3.text-center.fw-bold Indicadores digitales
                   .tarjeta--slider__content.text-center Tráfico web, interacciones, engagement, crecimiento en redes sociales, leads generados.
         .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
@@ -111,11 +111,69 @@
       .col-4.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_6/img_13.png", class="img-fluid")
-      .col-12.col-lg-8(data-aos="zoom-in-right")
+      .col-12.col-lg-10(data-aos="zoom-in-right")
         p.mb-3 Los indicadores de seguimiento pueden clasificarse en distintos tipos según el aspecto que evalúan, de acuerdo con Ferrell y Hartline (2014), los más comunes en mercadeo estratégico son:
-        p.mb-0 Tipos de indicadores de seguimiento y su aplicación
+        h5.mb-0 Tipos de indicadores de seguimiento y su aplicación
     
-    .bg_img_6.mb-3
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-md-6.col-lg-4.mb-5(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_6/img_14.svg', class="img-fluid")
+          p 
+            b De actividad
+          p Miden el cumplimiento de tareas operativas (ej. número de visitas, entregas realizadas).
+
+      .col-12.col-md-6.col-lg-4.mb-5(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_6/img_15.svg', class="img-fluid")
+          p 
+            b De resultado
+          p Evalúan el impacto de las acciones (ej. ventas generadas, participación de mercado).
+
+      .col-12.col-md-6.col-lg-4.mb-5(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_6/img_16.svg', class="img-fluid")
+          p 
+            b De eficiencia
+          p Relacionan recursos utilizados con resultados obtenidos (ej. ROI, costo por adquisición).
+
+      .col-12.col-md-6.col-lg-4.mb-5(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_6/img_17.svg', class="img-fluid")
+          p 
+            b De percepción
+          p Miden la experiencia o satisfacción del cliente (ej. NPS, nivel de recomendación).
+
+      .col-12.col-md-6.col-lg-4.mb-5(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_6/img_18.svg', class="img-fluid")
+          p 
+            b De mejora
+          p Identifican oportunidades de ajuste (ej. desviación vs. meta, tasa de error) .
+      
+    .bg_img_13.mb-3
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-10(data-aos="zoom-in-right")
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
+              .row.justify-content-center.align-items-center
+                .col-10.col-lg-9
+                  p.cita-decorada__texto.mb-2.p-3 Cada tipo de indicador cumple una función específica dentro del sistema de monitoreo; por ejemplo, en <b>PepsiCo</b> los indicadores de actividad permiten verificar la ejecución de activaciones en punto de venta, mientras que los indicadores de eficiencia permiten evaluar el retorno de inversión de las campañas, los indicadores de percepción, por su parte, se utilizan para ajustar el mensaje y mejorar la experiencia del cliente.
+                .col-2.col-lg-3.d-none.d-lg-block
+                  figure
+                    img(src='@/assets/curso/temas/tema_6/img_19.png', class="cita-decorada__imagen-flotante-7")
+
 
       Separador
 
@@ -126,7 +184,7 @@
           .mb-3
         .col-12.col-lg-10
           p.mb-3 Diseñar indicadores de seguimiento requiere un proceso estructurado que garantice su pertinencia, utilidad y coherencia con los objetivos del plan, este proceso incluye tres fases: diseño, validación y aplicación. 
-
+      
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10.mb-5
           .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")

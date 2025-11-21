@@ -68,17 +68,17 @@
                 figure
                   img(src='@/assets/curso/temas/tema_7/img_7.png', class="cita-decorada__imagen-flotante-6")
     
-    .bg_img_6.mb-3
+    .bg_img_14.mb-3
 
       Separador
 
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-12
-        #t_7_2.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 7.2 Inconsistencias-coherencia
-        .mb-3
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-12
+          #t_7_2.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 7.2 Inconsistencias-coherencia
+          .mb-3
 
-    .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5
         .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_7/img_8.png", class="img-fluid")
@@ -105,18 +105,18 @@
               figure
                 img(src='@/assets/curso/temas/tema_7/img_9.png', class="img-fluid").h-100
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10(data-aos="zoom-in-right")
-        .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
-            .row.justify-content-center.align-items-center
-              .col-10.col-lg-9
-                p.cita-decorada__texto.mb-2.p-3 En <b>Bancolombia</b>, por ejemplo, se identificó que algunos indicadores de experiencia del cliente no reflejaban el comportamiento real en canales digitales, esto llevó a ajustar las métricas, incorporar nuevas fuentes como analítica web y redefinir los objetivos de satisfacción, el resultado fue un sistema más preciso y útil para la toma de decisiones.
-              .col-2.col-lg-3.d-none.d-lg-block
-                figure
-                  img(src='@/assets/curso/temas/tema_7/img_10.png', class="cita-decorada__imagen-flotante-6")
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-10(data-aos="zoom-in-right")
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
+              .row.justify-content-center.align-items-center
+                .col-10.col-lg-9
+                  p.cita-decorada__texto.mb-2.p-3 En <b>Bancolombia</b>, por ejemplo, se identificó que algunos indicadores de experiencia del cliente no reflejaban el comportamiento real en canales digitales, esto llevó a ajustar las métricas, incorporar nuevas fuentes como analítica web y redefinir los objetivos de satisfacción, el resultado fue un sistema más preciso y útil para la toma de decisiones.
+                .col-2.col-lg-3.d-none.d-lg-block
+                  figure
+                    img(src='@/assets/curso/temas/tema_7/img_10.png', class="cita-decorada__imagen-flotante-6")
 
-    .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3
         .col-2.col-lg-3.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/tema_7/img_11.png', class="img-fluid")
@@ -146,8 +146,8 @@
                   td Meta desactualizada.
                   td Se redefine según contexto estratégico.
 
-
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-12
         #t_7_3.titulo-segundo.color-acento-contenido

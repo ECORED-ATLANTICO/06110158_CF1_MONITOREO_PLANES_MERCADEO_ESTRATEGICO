@@ -69,9 +69,41 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-12
         p.mb-3 No todas las actividades ni todos los indicadores tienen el mismo peso estratégico, la priorización permite enfocar el monitoreo en los componentes que generan mayor valor, impacto o riesgo.
-        p.mb-5 <b>Criterios de priorización:</b>
+        h5.mb-5 Criterios de priorización:
 
-    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_5.svg', class="img-fluid")
+          p.text-center 
+            b Contribución al objetivo principal del plan.
+
+      .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_6.svg', class="img-fluid")
+          p.text-center 
+            b Nivel de inversión asociado.
+
+      .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_7.svg', class="img-fluid")
+          p.text-center 
+            b Visibilidad ante el cliente.
+
+      .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2__numero
+            figure
+              img(src='@/assets/curso/temas/tema_3/img_8.svg', class="img-fluid")
+          p.text-center 
+            b Riesgo operativo o reputacional.
+
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")
         .cita-decorada
@@ -122,18 +154,17 @@
                 td Medio.
                 td Media.
     
-    .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-10
-        p.mb-3 Para definir con precisión esta prioridad, se puede usar algunas herramientas como:
-
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10
-        .titulo-con-imagen.mb-5(data-aos="fade-right")
-          .titulo-con-imagen__fondo
-            img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_3/img_11.svg")
-            h3.titulo-con-imagen__texto Matriz de impacto vs. esfuerzo 
-    
     .bg_img_6.mb-3
+      .row.justify-content-center.align-items-center.mb-3
+        .col-12.col-lg-10
+          p.mb-3 Para definir con precisión esta prioridad, se puede usar algunas herramientas como:
+
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10
+          .titulo-con-imagen.mb-5(data-aos="fade-right")
+            .titulo-con-imagen__fondo
+              img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_3/img_11.svg")
+              h3.titulo-con-imagen__texto Matriz de impacto vs. esfuerzo 
     
       .row.justify-content-center.align-items-center.mb-3
         .col-2.col-lg-3.d-none.d-lg-block

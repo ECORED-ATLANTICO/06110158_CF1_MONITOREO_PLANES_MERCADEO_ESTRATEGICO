@@ -17,15 +17,16 @@
         br
         p.mb-0 En este capítulo se abordan los tipos de herramientas aplicables al monitoreo, las tecnologías disponibles para el seguimiento comercial y los manuales y formatos que permiten su uso operativo. 
 
-
     Separador
+
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10
         #t_5_1.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 5.1 Tipos
         .mb-3
     
-    .row.justify-content-center.align-items-center.mb-5
+    .bg_img_11.mb-3
+      .row.justify-content-center.align-items-center.mb-5
         .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_5/img_2.png", class="img-fluid")
@@ -48,30 +49,31 @@
                     i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
                     span Las de documentación registran las acciones y decisiones tomadas.
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10(data-aos="zoom-in-right")
-        .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
-            .row.justify-content-center.align-items-center
-              .col-10.col-lg-9
-                p.cita-decorada__texto.mb-2.p-3 En <b>Decathlon</b>, por ejemplo, se utilizan formularios digitales para recolectar datos de experiencia del cliente, dashboards para visualizar KPIs de fidelización, herramientas de análisis predictivo para anticipar comportamientos de compra y bitácoras operativas para documentar las acciones realizadas en tienda, esta combinación permite un monitoreo integral, ágil y alineado con los objetivos comerciales.
-              .col-2.col-lg-3.d-none.d-lg-block
-                figure
-                  img(src='@/assets/curso/temas/tema_5/img_3.png', class="cita-decorada__imagen-flotante-7")
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-lg-10(data-aos="zoom-in-right")
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
+              .row.justify-content-center.align-items-center
+                .col-10.col-lg-9
+                  p.cita-decorada__texto.mb-2.p-3 En <b>Decathlon</b>, por ejemplo, se utilizan formularios digitales para recolectar datos de experiencia del cliente, dashboards para visualizar KPIs de fidelización, herramientas de análisis predictivo para anticipar comportamientos de compra y bitácoras operativas para documentar las acciones realizadas en tienda, esta combinación permite un monitoreo integral, ágil y alineado con los objetivos comerciales.
+                .col-2.col-lg-3.d-none.d-lg-block
+                  figure
+                    img(src='@/assets/curso/temas/tema_5/img_3.png', class="cita-decorada__imagen-flotante-7")
 
-    Separador
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10
-        #t_5_2.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 5.2 Tecnologías
-        .mb-3
+      Separador
 
-    .row.justify-content-center.align-items-start.mb-5
-      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
-        figure
-          img(src="@/assets/curso/temas/tema_5/img_4.png", class="img-fluid")
-      .col-12.col-lg-7(data-aos="zoom-in-right")
-        p.mb-3 El avance tecnológico ha ampliado significativamente las posibilidades de seguimiento comercial, ofreciendo soluciones digitales que permiten monitorear en tiempo real, automatizar procesos y generar reportes inteligentes, entre las tecnologías más utilizadas se encuentran los sistemas CRM (<em>Customer Relationship Management</em>), los <em>dashboards</em> interactivos (como Power BI o Tableau), las plataformas de analítica web (como Google Analytics), los sistemas ERP (<em>Enterprise Resource Planning</em>) y las aplicaciones móviles de supervisión para la recolección de datos en campo. Estas tecnologías se caracterizan por su capacidad de integración, su escalabilidad y su enfoque en la eficiencia operativa.
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10
+          #t_5_2.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 5.2 Tecnologías
+          .mb-3
+
+      .row.justify-content-center.align-items-start.mb-5
+        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+          figure
+            img(src="@/assets/curso/temas/tema_5/img_4.png", class="img-fluid")
+        .col-12.col-lg-7(data-aos="zoom-in-right")
+          p.mb-3 El avance tecnológico ha ampliado significativamente las posibilidades de seguimiento comercial, ofreciendo soluciones digitales que permiten monitorear en tiempo real, automatizar procesos y generar reportes inteligentes, entre las tecnologías más utilizadas se encuentran los sistemas CRM (<em>Customer Relationship Management</em>), los <em>dashboards</em> interactivos (como Power BI o Tableau), las plataformas de analítica web (como Google Analytics), los sistemas ERP (<em>Enterprise Resource Planning</em>) y las aplicaciones móviles de supervisión para la recolección de datos en campo. Estas tecnologías se caracterizan por su capacidad de integración, su escalabilidad y su enfoque en la eficiencia operativa.
 
     .bg_img_7.mb-5
       .row.justify-content-center.align-items-center.mb-0
@@ -104,6 +106,7 @@
 
 
     Separador
+
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10
         #t_5_3.titulo-segundo.color-acento-contenido

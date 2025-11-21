@@ -196,7 +196,44 @@
           .mb-3
       
       p.mb-3(data-aos="zoom-in-right") La frecuencia del monitoreo debe responder al tipo de actividad, la criticidad del indicador y la capacidad operativa de la organización. Asimismo, es fundamental definir responsables claros para cada componente.
-      p.mb-3(data-aos="zoom-in-right") Tipos de frecuencia:
+      h5.mb-3(data-aos="zoom-in-right") Tipos de frecuencia:
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+            .tarjeta-numerada-v2__numero
+              figure
+                img(src='@/assets/curso/temas/tema_2/img_14.svg', class="img-fluid")
+            p.text-center 
+              b Diaria
+            p.text-center Ejecución táctica. (ej. Promociones).
+
+        .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+            .tarjeta-numerada-v2__numero
+              figure
+                img(src='@/assets/curso/temas/tema_2/img_15.svg', class="img-fluid")
+            p.text-center 
+              b Semanal
+            p.text-center Seguimiento de campañas.
+
+        .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+            .tarjeta-numerada-v2__numero
+              figure
+                img(src='@/assets/curso/temas/tema_2/img_16.svg', class="img-fluid")
+            p.text-center 
+              b Mensual
+            p.text-center Evaluaciones de KPIs estratégicos.
+
+        .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
+          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+            .tarjeta-numerada-v2__numero
+              figure
+                img(src='@/assets/curso/temas/tema_2/img_17.svg', class="img-fluid")
+            p.text-center 
+              b Trimestral
+            p.text-center Revisión integral del plan.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")

@@ -88,18 +88,34 @@
     margin: 0 auto 
     width: 8rem 
   &--9
-    content: url('../assets/curso/temas/tema_7/img_3.svg')
+    content: url('../assets/curso/temas/tema_6/img_5.svg')
     margin:  auto 
     width: 8rem
   &--10
-    content: url('../assets/curso/temas/tema_7/img_4.svg')
+    content: url('../assets/curso/temas/tema_6/img_6.svg')
     margin: 0 auto 
     width: 8rem 
   &--11
-    content: url('../assets/curso/temas/tema_7/img_5.svg')
+    content: url('../assets/curso/temas/tema_6/img_7.svg')
     margin: 0 auto 
     width: 8rem 
   &--12
+    content: url('../assets/curso/temas/tema_6/img_8.svg')
+    margin: 0 auto 
+    width: 8rem 
+  &--13
+    content: url('../assets/curso/temas/tema_7/img_3.svg')
+    margin:  auto 
+    width: 8rem
+  &--14
+    content: url('../assets/curso/temas/tema_7/img_4.svg')
+    margin: 0 auto 
+    width: 8rem 
+  &--15
+    content: url('../assets/curso/temas/tema_7/img_5.svg')
+    margin: 0 auto 
+    width: 8rem 
+  &--16
     content: url('../assets/curso/temas/tema_7/img_6.svg')
     margin: 0 auto 
     width: 8rem 
@@ -255,6 +271,88 @@
     border-color: $color-acento-botones
     .tarjeta-numerada__numero
       background-color: $color-acento-botones
+      div
+        color: textColor($color-acento-botones)
+
+// Estilos para tarjetas numeradas v2
+.tarjeta-numerada-v2
+  border-radius: 20px
+  position: relative
+  margin-left: 30px
+  transition: transform 0.3s ease, box-shadow 0.3s ease
+  min-height: 200px
+  display: flex
+  flex-direction: column
+  justify-content: center
+  
+  &:hover
+    transform: translateY(-5px)
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15)
+  
+  &__numero
+    border-radius: 50%
+    width: 80px
+    height: 80px
+    display: flex
+    align-items: center
+    justify-content: center
+    position: absolute
+    left: 0
+    top: 50%
+    transform: translate(-50%, -50%)
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15)
+    
+    figure
+      margin: 0
+      display: flex
+      align-items: center
+      justify-content: center
+      width: 100%
+      height: 100%
+      
+      img
+        max-width: 50px
+        max-height: 50px
+    
+    div
+      font-size: 2rem
+      font-weight: bold
+      margin: 0
+      line-height: 1
+
+  &.color-primario
+    background-color: $color-primario-5
+    
+    .tarjeta-numerada-v2__numero
+      background-color: $color-primario
+      
+      div
+        color: textColor($color-primario)
+
+  &.color-secundario
+    background-color: $color-secundario-5
+    
+    .tarjeta-numerada-v2__numero
+      background-color: $color-secundario
+      
+      div
+        color: textColor($color-secundario)
+
+  &.color-acento-contenido
+    background-color: $color-acento-contenido-5
+    
+    .tarjeta-numerada-v2__numero
+      background-color: $color-acento-contenido
+      
+      div
+        color: textColor($color-acento-contenido)
+
+  &.color-acento-botones
+    background-color: $color-acento-botones
+    
+    .tarjeta-numerada-v2__numero
+      background-color: $color-acento-botones
+      
       div
         color: textColor($color-acento-botones)
 
