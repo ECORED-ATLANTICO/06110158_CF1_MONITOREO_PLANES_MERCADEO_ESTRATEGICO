@@ -143,7 +143,7 @@
           .tabla-a.mb-5(data-aos="zoom-in-right")
             table
               caption 
-                p <b>Fuente:</b> SENA, 2025
+                p <b>Fuente:</b> SENA, 2025.
               thead
                 tr
                   th.col-3.col-lg-3 Recurso operativo

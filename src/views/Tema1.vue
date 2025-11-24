@@ -185,7 +185,7 @@
           img(src='@/assets/curso/temas/tema_1/img_12.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura presenta los tipos de monitoreo mas utilizados en mercadeo y sus diferentes características. Texto de la Figura: Monitoreo operativo: seguimiento diario de acciones tácticas. Foco en ejecución. Monitoreo estratégico: evaluación periódica de objetivos y KPIs. Foco en resultados. Monitoreo participativo: involucra a diferentes actores (clientes, colaboradores). Foco en percepción y experiencia. Monitoreo automatizado: uso de herramientas tecnológicas para seguimiento en tiempo real. Foco en eficiencia y precisión.")
           img(src='@/assets/curso/temas/tema_1/img_13.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura presenta los tipos de monitoreo mas utilizados en mercadeo y sus diferentes características. Texto de la Figura: Monitoreo operativo: seguimiento diario de acciones tácticas. Foco en ejecución. Monitoreo estratégico: evaluación periódica de objetivos y KPIs. Foco en resultados. Monitoreo participativo: involucra a diferentes actores (clientes, colaboradores). Foco en percepción y experiencia. Monitoreo automatizado: uso de herramientas tecnológicas para seguimiento en tiempo real. Foco en eficiencia y precisión.")
         figcaption(data-aos="zoom-in-right") 
-          <b>Fuente:</b> Adaptado de Kotler & Keller (2016)
+          <b>Fuente:</b> Adaptado de Kotler & Keller (2016).
     
     .bg_img_3.mb-3
 
@@ -237,7 +237,7 @@
           .tabla-a.mb-5(data-aos="zoom-in-right")
             table
               caption 
-                p <b>Fuente:</b> SENA, 2025
+                p <b>Fuente:</b> SENA, 2025.
               thead
                 tr
                   th.col-2.col-lg-2 Criterio

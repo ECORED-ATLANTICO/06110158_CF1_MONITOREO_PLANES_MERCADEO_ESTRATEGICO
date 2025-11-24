@@ -5,8 +5,8 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Relación actividades del plan y sistema de monitoreo
-
+      h1 Relación de actividades del plan y sistema de monitoreo
+         
     .tarjeta.color-acento-contenido-20.rounded-0.overflow-hidden.mb-5(data-aos="fade-right")
       .row.g-0.align-items-stretch
         .col-12.col-lg-5.mb-lg-0.mb-3
@@ -187,7 +187,7 @@
               tbody
                 tr
                   td Bajo esfuerzo.
-                  td Acciones rápidas (<em>Quik wins</em>).
+                  td Acciones rápidas (<em>Quick wins</em>).
                   td Distracciones aceptables.
                 tr
                   td Alto esfuerzo.
@@ -225,7 +225,7 @@
           figure
             img(src="@/assets/curso/temas/tema_3/img_14.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
-          p.mb-5 Es una técnica utilizada para identificar y priorizar los factores más significativos que influyen en un resultado. Se basa en el Principio de Pareto o regla del 80/20, propuesto por el economista italiano Vilfredo Pareto, quien observó que aproximadamente el 80 % de los efectos provienen del 20 % de las causas. esta herramienta ayuda a detectar cuáles componentes, variables o problemas tienen mayor incidencia sobre el desempeño de un plan de marketing. Por ejemplo, puede revelar que el 80 % de las quejas de los clientes provienen del 20 % de los productos, o que el 80 % de las ventas se concentra en el 20 % de los clientes o canales de distribución. Las etapas del análisis son las siguientes:
+          p.mb-5 Es una técnica utilizada para identificar y priorizar los factores más significativos que influyen en un resultado. Se basa en el Principio de Pareto o regla del 80/20, propuesto por el economista italiano Vilfredo Pareto, quien observó que aproximadamente el 80 % de los efectos provienen del 20 % de las causas. Esta herramienta ayuda a detectar cuáles componentes, variables o problemas tienen mayor incidencia sobre el desempeño de un plan de marketing. Por ejemplo, puede revelar que el 80 % de las quejas de los clientes provienen del 20 % de los productos, o que el 80 % de las ventas se concentra en el 20 % de los clientes o canales de distribución. Las etapas del análisis son las siguientes:
       
     .bg_img_7.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-5
@@ -239,7 +239,7 @@
               img(src='@/assets/curso/temas/tema_3/img_15.png')
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-3
-            h5 Recolección de Datos
+            h5 Recolección de datos
             p.mb-0 Se recopilan datos cuantitativos y verificables relacionados con el problema identificado.
             p.mb-0 Estos datos pueden obtenerse de informes de ventas, registros de atención al cliente, reportes de desempeño, encuestas o bases de datos de marketing.
             p.mb-0 Es fundamental que la información sea precisa, completa y comparable.

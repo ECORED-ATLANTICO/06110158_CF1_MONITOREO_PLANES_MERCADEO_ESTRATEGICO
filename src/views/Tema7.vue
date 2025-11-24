@@ -111,7 +111,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
               .row.justify-content-center.align-items-center
                 .col-10.col-lg-9
-                  p.cita-decorada__texto.mb-2.p-3 En <b>Bancolombia</b>, por ejemplo, se identificó que algunos indicadores de experiencia del cliente no reflejaban el comportamiento real en canales digitales, esto llevó a ajustar las métricas, incorporar nuevas fuentes como analítica web y redefinir los objetivos de satisfacción, el resultado fue un sistema más preciso y útil para la toma de decisiones.
+                  p.cita-decorada__texto.mb-2.p-3 En <b>Bancolombia</b>, por ejemplo, se identificó que algunos indicadores de experiencia del cliente no reflejaban el comportamiento real en canales digitales, esto llevó a ajustar las métricas, incorporar nuevas fuentes como analítica <em>web</em> y redefinir los objetivos de satisfacción, el resultado fue un sistema más preciso y útil para la toma de decisiones.
                 .col-2.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_7/img_10.png', class="cita-decorada__imagen-flotante-6")
