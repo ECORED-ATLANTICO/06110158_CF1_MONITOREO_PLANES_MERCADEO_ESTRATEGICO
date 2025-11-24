@@ -61,7 +61,7 @@
     Separador
 
     .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10
+      .col-12.col-lg-12
         #t_3_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 3.2 Priorización de componentes
         .mb-3
@@ -73,35 +73,35 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+        .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
           .tarjeta-numerada-v2__numero
             figure
               img(src='@/assets/curso/temas/tema_3/img_5.svg', class="img-fluid")
-          p.text-center 
+          p(style="text-align: left; margin-left:2.5rem;") 
             b Contribución al objetivo principal del plan.
 
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+        .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
           .tarjeta-numerada-v2__numero
             figure
               img(src='@/assets/curso/temas/tema_3/img_6.svg', class="img-fluid")
-          p.text-center 
+          p(style="text-align: left; margin-left:2.5rem;") 
             b Nivel de inversión asociado.
 
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+        .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
           .tarjeta-numerada-v2__numero
             figure
               img(src='@/assets/curso/temas/tema_3/img_7.svg', class="img-fluid")
-          p.text-center 
+          p(style="text-align: left; margin-left:2.5rem;") 
             b Visibilidad ante el cliente.
 
       .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-        .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+        .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
           .tarjeta-numerada-v2__numero
             figure
               img(src='@/assets/curso/temas/tema_3/img_8.svg', class="img-fluid")
-          p.text-center 
+          p(style="text-align: left; margin-left:2.5rem;") 
             b Riesgo operativo o reputacional.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -225,7 +225,7 @@
           figure
             img(src="@/assets/curso/temas/tema_3/img_14.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
-          p.mb-5 Es una técnica utilizada para identificar y priorizar los factores más significativos que influyen en un resultado. Se basa en el Principio de Pareto o regla del 80/20, propuesto por el economista italiano Vilfredo Pareto, quien observó que aproximadamente el 80 % de los efectos provienen del 20 % de las causas. Esta herramienta ayuda a detectar cuáles componentes, variables o problemas tienen mayor incidencia sobre el desempeño de un plan de marketing. Por ejemplo, puede revelar que el 80 % de las quejas de los clientes provienen del 20 % de los productos, o que el 80 % de las ventas se concentra en el 20 % de los clientes o canales de distribución. Las etapas del análisis son las siguientes:
+          p.mb-5 Es una técnica utilizada para identificar y priorizar los factores más significativos que influyen en un resultado. Se basa en el Principio de Pareto o regla del 80 / 20, propuesto por el economista italiano Vilfredo Pareto, quien observó que aproximadamente el 80 % de los efectos provienen del 20 % de las causas. Esta herramienta ayuda a detectar cuáles componentes, variables o problemas tienen mayor incidencia sobre el desempeño de un plan de <em>marketing</em>. Por ejemplo, puede revelar que el 80 % de las quejas de los clientes provienen del 20 % de los productos, o que el 80 % de las ventas se concentra en el 20 % de los clientes o canales de distribución. Las etapas del análisis son las siguientes:
       
     .bg_img_7.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-5
@@ -304,6 +304,8 @@
             figure
               img(src='@/assets/curso/temas/tema_3/img_21.png')
     br
+    br
+    br
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10
         .titulo-con-imagen.mb-3(data-aos="fade-right")
@@ -314,7 +316,7 @@
     .row.justify-content-center.align-items-start.mb-3
       .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
-          img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid")
+          img(src="@/assets/curso/temas/tema_3/img_22.svg", class="img-fluid d-none d-lg-block mb-0")
       .col-12.col-lg-9(data-aos="zoom-in-right")
         p.mb-5 El árbol de decisiones estratégicas es una herramienta que permite visualizar las posibles rutas de acción ante una situación, considerando alternativas, consecuencias y criterios de evaluación, se estructura como un diagrama ramificado que parte de una decisión inicial y se bifurca en opciones, cada una con sus implicaciones, en monitoreo, se utiliza para definir ajustes, validar indicadores o seleccionar herramientas según escenarios.
 

@@ -210,22 +210,22 @@ export default {
   },
   complementario: [
     {
-      tema: 'Análisis de marketing digital',
+      tema: 'Análisis de <em>marketing</em> digital',
       referencia:
-        'Brand24. (2024). <em>Las 19 mejores herramientas de análisis de marketing digital.</em>',
+        'Brand24. (2024). <>Las 19 mejores herramientas de análisis de marketing digital.</em>',
       tipo: 'Artículo',
       link:
         'https://brand24.com/blog/es/herramientas-de-analisis-de-marketing/',
     },
     {
-      tema: 'Herramientas de marketing',
+      tema: 'Herramientas de <em>marketing</em>',
       referencia:
         'Makosiewicz, M. (2024). <em>12 herramientas de marketing analytics esenciales para 2025. Ahrefs.</em>',
       tipo: 'Artículo',
       link: 'https://ahrefs.com/blog/es/herramientas-marketing-analytics/',
     },
     {
-      tema: 'Seguimiento y control del plan de marketing',
+      tema: 'Seguimiento y control del plan de <em>marketing</em>',
       referencia:
         'Mutatio. (2024). <em>Seguimiento y control del plan de marketing: métodos y herramientas.</em>',
       tipo: 'Artículo',

@@ -35,7 +35,7 @@
           figure
             img(src="@/assets/curso/temas/tema_2/img_2.png", class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
-          p.mb-3 Las actividades del plan de mercadeo constituyen el punto de partida del sistema de monitoreo, estas acciones, previamente definidas en la planeación estratégica, deben ser observables, medibles y documentables; por ejemplo, en <em>Postobón</em>, una actividad clave del plan es la activación de marca en eventos deportivos, el monitoreo se enfoca en verificar la ejecución logística, la visibilidad de la marca y la interacción con el público.
+          p.mb-3 Las actividades del plan de mercadeo constituyen el punto de partida del sistema de monitoreo, estas acciones, previamente definidas en la planeación estratégica, deben ser observables, medibles y documentables; por ejemplo, en <b>Postobón</b>, una actividad clave del plan es la activación de marca en eventos deportivos, el monitoreo se enfoca en verificar la ejecución logística, la visibilidad de la marca y la interacción con el público.
           .row.justify-content-center.align-items-center.mb-3
             .col-12.col-lg-9.order-2.order-lg-1.mb-0(data-aos="zoom-in-right")
               .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
@@ -119,15 +119,15 @@
     
     TabsB.color-primario.mb-5(data-aos="zoom-in-right")
       .py-4.py-md-5(titulo="Encuestas y formularios: percepción del cliente" :icono="require('@/assets/curso/temas/tema_2/img_10.svg')")
-        .row.justify-content-center.align-items-center.mb-0
+        .row.justify-content-center.align-items-center.mb-0.p-5
           .col-12.col-lg-9.order-2.order-lg-1.mb-0
             p.mb-3 Las encuestas y formularios son herramientas de recolección de datos cualitativos y cuantitativos que permiten conocer la percepción del cliente sobre productos, servicios o experiencias, en el monitoreo, se utilizan para evaluar indicadores de satisfacción, fidelización, recomendación y experiencia de compra, pueden aplicarse en línea, en punto de venta o por correo electrónico.
             p.mb-0 <B>Por ejemplo:</B> en <B>Decathlon</B>, se aplican encuestas post-compra para medir la satisfacción del cliente, identificar oportunidades de mejora en atención y ajustar las estrategias de fidelización según los resultados obtenidos.
           .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
-      .py-4.py-md-5(titulo="Checklists operativos: verificación de ejecución en campo" :icono="require('@/assets/curso/temas/tema_2/img_12.svg')")
-        .row.justify-content-center.align-items-center.mb-0
+      .py-4.py-md-5(titulo="<em>Checklists operativos</em>: verificación de ejecución en campo" :icono="require('@/assets/curso/temas/tema_2/img_12.svg')")
+        .row.justify-content-center.align-items-center.mb-0.p-5
           .col-12.col-lg-9.order-2.order-lg-1.mb-0
             p.mb-3 Los checklists son listas estructuradas de verificación que permiten confirmar el cumplimiento de tareas operativas en campo, son útiles para monitorear activaciones de marca, implementación de promociones, disposición de materiales POP y cumplimiento de protocolos, facilitan la trazabilidad, la estandarización del proceso y la retroalimentación inmediata.
             p.mb-3 <B>Por ejemplo:</B> en <B>Postobón</B>, los promotores utilizan checklists digitales para verificar la correcta ejecución de campañas en puntos de venta, incluyendo presencia de producto, visibilidad de marca y cumplimiento de horarios.
@@ -199,41 +199,41 @@
       h5.mb-3(data-aos="zoom-in-right") Tipos de frecuencia:
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+        .col-12.col-md-6.col-lg-3.mb-2.mb-lg-0(data-aos="zoom-in-right")
+          .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
             .tarjeta-numerada-v2__numero
               figure
                 img(src='@/assets/curso/temas/tema_2/img_14.svg', class="img-fluid")
-            p.text-center 
+            p(style="text-align: left; margin-left:2.5rem;")
               b Diaria
-            p.text-center Ejecución táctica. (ej. Promociones).
+            p(style="text-align: left; margin-left:2.5rem;") Ejecución táctica. (ej. Promociones).
 
         .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
             .tarjeta-numerada-v2__numero
               figure
                 img(src='@/assets/curso/temas/tema_2/img_15.svg', class="img-fluid")
-            p.text-center 
+            p(style="text-align: left; margin-left:2.5rem;")
               b Semanal
-            p.text-center Seguimiento de campañas.
+            p(style="text-align: left; margin-left:2.5rem;") Seguimiento de campañas.
 
         .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
             .tarjeta-numerada-v2__numero
               figure
                 img(src='@/assets/curso/temas/tema_2/img_16.svg', class="img-fluid")
-            p.text-center 
+            p(style="text-align: left; margin-left:2.5rem;")
               b Mensual
-            p.text-center Evaluaciones de KPIs estratégicos.
+            p(style="text-align: left; margin-left:2.5rem;") Evaluaciones de KPIs estratégicos.
 
         .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
-          .tarjeta-numerada-v2.color-primario.p-5.pt-2.pb-2.h-100
+          .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
             .tarjeta-numerada-v2__numero
               figure
                 img(src='@/assets/curso/temas/tema_2/img_17.svg', class="img-fluid")
-            p.text-center 
+            p(style="text-align: left; margin-left:2.5rem;")
               b Trimestral
-            p.text-center Revisión integral del plan.
+            p(style="text-align: left; margin-left:2.5rem;") Revisión integral del plan.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")

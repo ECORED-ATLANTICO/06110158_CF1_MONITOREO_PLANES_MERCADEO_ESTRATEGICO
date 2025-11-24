@@ -55,7 +55,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
               .row.justify-content-center.align-items-center
                 .col-10.col-lg-9
-                  p.cita-decorada__texto.mb-2.p-3 En <b>Decathlon</b>, por ejemplo, se utilizan formularios digitales para recolectar datos de experiencia del cliente, dashboards para visualizar KPIs de fidelización, herramientas de análisis predictivo para anticipar comportamientos de compra y bitácoras operativas para documentar las acciones realizadas en tienda, esta combinación permite un monitoreo integral, ágil y alineado con los objetivos comerciales.
+                  p.cita-decorada__texto.mb-2.p-3 En <b>Decathlon</b>, por ejemplo, se utilizan formularios digitales para recolectar datos de experiencia del cliente, <em>dashboards</em> para visualizar KPIs de fidelización, herramientas de análisis predictivo para anticipar comportamientos de compra y bitácoras operativas para documentar las acciones realizadas en tienda, esta combinación permite un monitoreo integral, ágil y alineado con los objetivos comerciales.
                 .col-2.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_5/img_3.png', class="cita-decorada__imagen-flotante-7")
@@ -99,7 +99,7 @@
               .col-12.col-lg-5.order-2.order-lg-1.mb-0
                 h5 <em>Dashboards</em> personalizados 
                 p.mb-3 Los <em>dashboards</em> son paneles interactivos que permiten visualizar indicadores clave de desempeño (KPIs) en tiempo real; herramientas como Power BI y Tableau integran datos de múltiples fuentes (CRM, ERP, formularios, redes sociales) y los presentan de forma gráfica, facilitando el análisis comparativo, la detección de tendencias y la toma de decisiones, son especialmente útiles para gerencias y equipos estratégicos. 
-                p.mb-0 <B>Ejemplo:</B> en <em>Grupo Nutresa</em>, se utilizan dashboards en Power BI para monitorear el desempeño de campañas por canal, región y segmento, permitiendo identificar rápidamente qué acciones generan mayor retorno y cuáles requieren ajustes.            
+                p.mb-0 <B>Ejemplo:</B> en <b>Grupo Nutresa</b>, se utilizan <em>dashboards</em> en Power BI para monitorear el desempeño de campañas por canal, región y segmento, permitiendo identificar rápidamente qué acciones generan mayor retorno y cuáles requieren ajustes.            
               .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-0
                 figure
                   img(src='@/assets/curso/temas/tema_5/img_7.png')
@@ -107,8 +107,8 @@
 
     Separador
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-lg-12
         #t_5_3.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 5.3 Manuales
 
@@ -123,7 +123,7 @@
         .row.justify-content-center.align-items-start
           .col-3.col-lg-2.mb-lg-0.mb-3
             figure
-              img(src="@/assets/curso/temas/tema_5/img_9.svg", class="img-fluid")
+              img(src="@/assets/curso/temas/tema_5/img_9.svg", class="img-fluid d-none d-lg-block mb-0")
           .col-12.col-lg-10
             p.mb-0 Los formatos, por su parte, estandarizan la recolección de información, facilitando la comparación entre actividades, periodos o regiones, estos recursos deben ser claros, accesibles y adaptables a distintos niveles de experiencia y contexto organizacional.
           

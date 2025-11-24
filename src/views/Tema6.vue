@@ -19,7 +19,7 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-4.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
-            img(src="@/assets/curso/temas/tema_6/img_3.svg", class="img-fluid")
+            img(src="@/assets/curso/temas/tema_6/img_3.svg", class="img-fluid d-none d-lg-block mb-0")
         .col-12.col-lg-8(data-aos="zoom-in-right")
           p.mb-0 Este capítulo aborda el concepto y las características de los indicadores de seguimiento, los tipos más utilizados en el monitoreo comercial y el proceso para diseñarlos, validarlos y aplicarlos de forma efectiva. A través de ejemplos empresariales y recursos prácticos, se busca que el aprendiz comprenda cómo construir indicadores pertinentes, medibles y alineados con los objetivos del plan de mercadeo.
 
@@ -37,7 +37,7 @@
             img(src="@/assets/curso/temas/tema_6/img_4.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
           p.mb-3 Los indicadores de seguimiento son medidas cuantitativas o cualitativas que permiten evaluar de manera continua el progreso, desempeño y efectividad de las acciones establecidas en un plan de mercadeo estratégico. Su función principal es traducir los objetivos del plan en variables observables y medibles, proporcionando información objetiva para el monitoreo y la toma de decisiones.
-          p.mb-0 En el ámbito del marketing, los indicadores de seguimiento pueden enfocarse en diferentes dimensiones del desempeño, tales como:
+          p.mb-0 En el ámbito del <em>marketing</em>, los indicadores de seguimiento pueden enfocarse en diferentes dimensiones del desempeño, tales como:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1.mb-3
@@ -66,7 +66,7 @@
                   .col-12.mb-3
                     .tarjeta--12
                   .tarjeta--slider__title.mb-3.text-center.fw-bold Indicadores digitales
-                  .tarjeta--slider__content.text-center Tráfico web, interacciones, engagement, crecimiento en redes sociales, leads generados.
+                  .tarjeta--slider__content.text-center Tráfico web, interacciones, <em>engagement</em>, crecimiento en redes sociales, <em>leads</em> generados.
         .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
           figure
             img(src='@/assets/curso/temas/tema_6/img_9.png', class="img-fluid")

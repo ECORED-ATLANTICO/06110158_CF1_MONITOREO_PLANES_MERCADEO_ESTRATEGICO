@@ -100,7 +100,7 @@
           figure
             img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
-          p.mb-5 Estas etapas se caracterizan por su secuencialidad, su enfoque en la mejora continua y su capacidad de adaptación a distintos tipos de actividades. En <b>Grupo Éxito</b>, por ejemplo, el monitoreo de campañas promocionales sigue esta lógica: se planifica el seguimiento, se recolectan datos de ventas y comportamiento del cliente, se analizan los resultados en dashboards, se comparten los hallazgos con los equipos de tienda y se ajustan las estrategias de precios o comunicación, esta estructura permite mantener el control sobre las acciones y mejorar su efectividad en tiempo real.
+          p.mb-5 Estas etapas se caracterizan por su secuencialidad, su enfoque en la mejora continua y su capacidad de adaptación a distintos tipos de actividades. En <b>Grupo Éxito</b>, por ejemplo, el monitoreo de campañas promocionales sigue esta lógica: se planifica el seguimiento, se recolectan datos de ventas y comportamiento del cliente, se analizan los resultados en <em>dashboards</em>, se comparten los hallazgos con los equipos de tienda y se ajustan las estrategias de precios o comunicación, esta estructura permite mantener el control sobre las acciones y mejorar su efectividad en tiempo real.
 
       Separador
 
@@ -113,7 +113,7 @@
       .row.justify-content-center.align-items-start.mb-3
         .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
-            img(src="@/assets/curso/temas/tema_4/img_11.svg", class="img-fluid")
+            img(src="@/assets/curso/temas/tema_4/img_11.svg", class="img-fluid d-none d-lg-block mb-0")
         .col-12.col-lg-9(data-aos="zoom-in-right")
             p.mb-3 La documentación técnica es esencial para asegurar la trazabilidad del sistema de monitoreo, esta documentación incluye fichas técnicas, bitácoras de campo, informes de supervisión, matrices de indicadores y protocolos operativos (Lambin & Schuiling, 2012). 
 

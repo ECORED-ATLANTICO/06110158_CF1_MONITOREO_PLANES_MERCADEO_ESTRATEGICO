@@ -49,13 +49,13 @@
                 .col-12.mb-3
                   .tarjeta--11
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Complementariedad
-                .tarjeta--slider__content.text-center debe aportar información que complemente otros indicadores
+                .tarjeta--slider__content.text-center Debe aportar información que complemente otros indicadores
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--12
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Trazabilidad
-                .tarjeta--slider__content.text-center debe permitir seguir el flujo de información desde la fuente hasta la decisión.
+                .tarjeta--slider__content.text-center Debe permitir seguir el flujo de información desde la fuente hasta la decisión.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")

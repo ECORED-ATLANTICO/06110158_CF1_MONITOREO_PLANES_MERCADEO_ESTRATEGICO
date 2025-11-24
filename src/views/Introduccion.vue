@@ -19,9 +19,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="fade-left")
         figure
-          img(src="@/assets/curso/introduccion/img_2.svg", class="img-fluid")
+          img(src="@/assets/curso/introduccion/img_2.svg", class="img-fluid d-none d-lg-block mb-0")
       .col-12.col-lg-9
-        p.mb-3(data-aos="fade-left") El monitoreo estratégico en mercadeo es mucho más que una práctica operativa; es una herramienta de gestión que permite verificar el progreso de las acciones, evaluar su impacto y tomar decisiones basadas en evidencia.  
+        p.mb-3(data-aos="fade-left") El componente también aborda el uso de tecnologías para el seguimiento comercial, la construcción de indicadores pertinentes y la conciliación del sistema con los objetivos estratégicos; el propósito es que el aprendiz pueda diseñar, ajustar y validar sistemas de monitoreo que aporten valor real a la gestión comercial y promuevan la mejora continua.  
         
     
     figure.mb-5

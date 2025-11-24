@@ -88,7 +88,7 @@ export default {
         {
           id: 5,
           texto:
-            'Las herramientas de seguimiento pueden incluir checklists, dashboards y formularios digitales.',
+            'Las herramientas de seguimiento pueden incluir <em>checklists/em>, <em>dashboards</em> y formularios digitales.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -177,7 +177,7 @@ export default {
         {
           id: 11,
           texto:
-            'El ajuste del sistema de monitoreo permite corregir desviaciones detectadas en los indicadores.',
+            'La coherencia entre componentes garantiza que el sistema de monitoreo sea útil y estratégico.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -192,23 +192,8 @@ export default {
         {
           id: 12,
           texto:
-            'Las actividades del plan de mercadeo no tienen relación directa con los indicadores.',
+            'Los indicadores de percepción miden la experiencia del cliente frente a una acción comercial.',
           imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
-          ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de sistema de monitoreo.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
-        },
-        {
-          id: 13,
-          texto:
-            'La etapa de documentación busca registrar información clave sobre el seguimiento realizado.',
-          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
@@ -220,9 +205,24 @@ export default {
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
+          id: 13,
+          texto:
+            'Las herramientas tecnológicas no aportan valor al seguimiento comercial.',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de sistema de monitoreo.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
           id: 14,
           texto:
-            'La priorización de componentes permite enfocar el monitoreo en los elementos más relevantes.',
+            'La documentación técnica incluye fichas, bitácoras, informes y matrices de indicadores.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -237,12 +237,12 @@ export default {
         {
           id: 15,
           texto:
-            'Las herramientas digitales como dashboards facilitan la interpretación de los KPIs.',
+            'La validación del sistema de monitoreo se realiza sin considerar los objetivos estratégicos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
             'Excelente, tiene una adecuada comprensión de la temática de sistema de monitoreo.',
@@ -252,7 +252,7 @@ export default {
         {
           id: 16,
           texto:
-            'Los indicadores deben diseñarse considerando la disponibilidad de datos y su relevancia estratégica.',
+            'El ajuste del sistema puede implicar cambios en indicadores, fuentes o responsables.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -267,7 +267,7 @@ export default {
         {
           id: 17,
           texto:
-            'La inconsistencia en los datos del sistema de monitoreo afecta la toma de decisiones.',
+            'Un buen indicador debe ser claro, medible, accesible y comparable.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -282,22 +282,7 @@ export default {
         {
           id: 18,
           texto:
-            'Los responsables del seguimiento deben conocer claramente los indicadores asignados.',
-          imagen: require('@/assets/actividad/imagen5.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
-          ],
-          mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de sistema de monitoreo.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
-        },
-        {
-          id: 19,
-          texto:
-            'El proceso de monitoreo no requiere trazabilidad ni registro de actividades.',
+            'El monitoreo participativo excluye la opinión de clientes y colaboradores.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -310,14 +295,29 @@ export default {
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 20,
+          id: 19,
           texto:
-            'Un sistema de monitoreo automatizado permite actuar de manera proactiva ante variaciones de desempeño.',
+            'La selección de componentes del sistema de monitoreo debe considerar su pertinencia, viabilidad y trazabilidad.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: true },
             { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de sistema de monitoreo.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 20,
+          texto:
+            'El sistema de monitoreo no requiere ajustes una vez implementado.',
+          imagen: require('@/assets/actividad/imagen5.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
           mensaje_correcto:
             'Excelente, tiene una adecuada comprensión de la temática de sistema de monitoreo.',
