@@ -214,14 +214,22 @@
             h4.mb-0 Más allá de los indicadores, está el impacto. Más allá del monitoreo, está el propósito. Que cada acción estratégica sea también una expresión de servicio y gratitud.
             i.fas.fa-quote-right
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-8(data-aos="zoom-in-right")
-        TarjetaAudio.color-secundario.mb-0.p-4(
-          texto="<em>Buyer</em> Persona"
-          :audio="require('@/assets/curso/podcast/Podcast Organización y presentación persuasiva de propuestas comerciales.wav')"
-          @audio-hover="mostrarIndicadorTarjetaAudio = false"
-        )
+    
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10
+        .tarjeta.color-terciario-5.p-4.rounded-3.mb-0
+          .row.justify-content-center.align-items-center.mb-3
+            .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+              figure
+                img(src="@/assets/curso/temas/tema_7/img_18.png", class="img-fluid")
+            .col-12.col-lg-9(data-aos="zoom-in-right")
+                p.mb-3 Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se explora el proceso de hacer as conciliacines y mejoras en el sistema de monitoreo estrategico.
+                TarjetaAudio.color-secundario.mb-0.p-4(
+                  texto="<em>Buyer</em> Persona"
+                  :audio="require('@/assets/curso/podcast/Podcast Organización y presentación persuasiva de propuestas comerciales.wav')"
+                  @audio-hover="mostrarIndicadorTarjetaAudio = false")
+            
 
 </template>
 
