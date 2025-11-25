@@ -8,7 +8,7 @@
       h1 Conciliación del sistema de monitoreo
       
     .row.justify-content-center.align-items-center.mb-0
-      .col-4.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_7/img_1.png", class="img-fluid")
       .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -62,7 +62,7 @@
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9
+              .col-12.col-lg-9
                 p.cita-decorada__texto.mb-2.p-3 En <b>Grupo Éxito</b>, por ejemplo, se seleccionan indicadores que conectan el comportamiento del consumidor con las metas de rentabilidad, utilizando fuentes como CRM, encuestas y reportes de ventas, esta coherencia permite tomar decisiones informadas y ajustar las tácticas de forma ágil.
               .col-2.col-lg-3.d-none.d-lg-block
                 figure
@@ -110,7 +110,7 @@
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-9
+                .col-12.col-lg-9
                   p.cita-decorada__texto.mb-2.p-3 En <b>Bancolombia</b>, por ejemplo, se identificó que algunos indicadores de experiencia del cliente no reflejaban el comportamiento real en canales digitales, esto llevó a ajustar las métricas, incorporar nuevas fuentes como analítica <em>web</em> y redefinir los objetivos de satisfacción, el resultado fue un sistema más preciso y útil para la toma de decisiones.
                 .col-2.col-lg-3.d-none.d-lg-block
                   figure
@@ -179,14 +179,14 @@
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9
+              .col-12.col-lg-9
                 p.cita-decorada__texto.mb-2.p-3 En <b>Alpina</b>, se realiza una validación semestral del sistema de monitoreo, en la que se revisan los indicadores clave, se contrastan con los resultados del mercado y se ajustan según las prioridades estratégicas, este proceso garantiza que el sistema siga siendo relevante y funcional en contextos cambiantes.
               .col-2.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_7/img_15.png', class="cita-decorada__imagen-flotante-2")
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-6.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_7/img_16.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="zoom-in-right")

@@ -26,7 +26,7 @@
           .mb-3
       
       .row.justify-content-center.align-items-start.mb-3
-        .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-6.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_2.svg", class="img-fluid")
         .col-12.col-lg-9(data-aos="zoom-in-right")
@@ -48,7 +48,7 @@
           p.mb-0 Los procedimientos de monitoreo se definen como secuencias organizadas de pasos que permiten supervisar de manera sistemática las actividades del plan de mercadeo (Kotler & Keller, 2016), su finalidad principal es garantizar que el seguimiento se realice de forma estandarizada, objetiva y útil para la toma de decisiones. 
 
     .row.justify-content-center.align-items-start.mb-3
-      .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_4/img_4.png", class="img-fluid")
       .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -96,7 +96,7 @@
     .bg_img_10.mb-3
 
       .row.justify-content-center.align-items-start.mb-3
-        .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+        .col-6.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_4/img_10.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -133,7 +133,7 @@
                 .col-2.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_4/img_13.png', class="cita-decorada__imagen-flotante-5")
-                .col-10.col-lg-9
+                .col-12.col-lg-9
                   p.cita-decorada__texto.mb-2.p-3 En <b>Davivienda</b>, cada campaña cuenta con una ficha técnica que describe los objetivos, responsables, indicadores, herramientas y procedimientos de monitoreo asociados. Además, se utilizan bitácoras digitales para registrar observaciones en campo, lo que permite comparar la ejecución real con la planeada, esta documentación se almacena en plataformas compartidas que facilitan el acceso y la revisión por parte de diferentes áreas. 
 
     .row.justify-content-center.align-items-start.mb-3
@@ -151,7 +151,7 @@
       .col-12.col-lg-10
         .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
           .row.justify-content-center.align-items-start.mb-0
-            .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
+            .col-6.col-lg-1.mb-lg-0.mb-3(data-aos="zoom-in-right")
               figure
                 img(src="@/assets/curso/temas/tema_4/img_14.svg", class="img-fluid")
             .col-12.col-lg-11(data-aos="zoom-in-right")
@@ -177,7 +177,7 @@
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
             .row.justify-content-center.align-items-center
-              .col-10.col-lg-9
+              .col-12.col-lg-9
                 p.cita-decorada__texto.mb-2.p-3 <b>Ejemplo empresarial.</b> En <b>Rappi</b>, los procedimientos de monitoreo para campañas de fidelización se diseñan de forma colaborativa entre los equipos de marketing, tecnología y atención al cliente, antes de su implementación, se realizan pruebas piloto, se ajustan los formatos y se capacita a los responsables,  además, se promueve la retroalimentación continua mediante reuniones semanales y encuestas internas; esta cultura participativa ha permitido mejorar la calidad del monitoreo, aumentar la adherencia a los procedimientos y generar aprendizajes compartidos.
               .col-2.col-lg-3.d-none.d-lg-block
                 figure

@@ -76,7 +76,7 @@
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-10
+                .col-12.col-lg-10
                   p.cita-decorada__texto.mb-2.p-3 Por ejemplo, una empresa como <b>Rappi</b> utiliza sistemas de monitoreo para seguir el desempeño de sus campañas promocionales por segmento, ajustando en tiempo real las ofertas según el comportamiento del usuario, esto le permite optimizar recursos y mejorar la experiencia del cliente.
                 .col-2.col-lg-2.d-none.d-lg-block
                   figure
@@ -158,7 +158,7 @@
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-10
+                .col-12.col-lg-10
                   p.cita-decorada__texto.mb-2.p-3 Por ejemplo, en una empresa como <b>Éxito</b>, el monitoreo permite ajustar las estrategias de precios y promociones en función del comportamiento de compra observado en tiempo real, lo que mejora la efectividad de las campañas y la satisfacción del cliente.
                 .col-2.col-lg-2.d-none.d-lg-block
                   figure

@@ -11,7 +11,7 @@
       .bloque-texto-t__img.mb-0
         figure
           img(src='@/assets/curso/temas/tema_6/img_1.png')
-      .bloque-texto-t__texto.col-8.mb-0.p-4
+      .bloque-texto-t__texto.col-10.mb-0.p-4
         p.mb-0 Los indicadores de seguimiento son el instrumento clave para evaluar el progreso de las acciones de mercadeo, permiten transformar datos en información útil, visibilizar resultados, identificar desviaciones y tomar decisiones estratégicas. 
         
     .bg_img_12.mb-3
@@ -108,7 +108,7 @@
         .mb-3
         
     .row.justify-content-center.align-items-center.mb-5
-      .col-4.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src="@/assets/curso/temas/tema_6/img_13.png", class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -168,7 +168,7 @@
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
               .row.justify-content-center.align-items-center
-                .col-10.col-lg-9
+                .col-12.col-lg-9
                   p.cita-decorada__texto.mb-2.p-3 Cada tipo de indicador cumple una función específica dentro del sistema de monitoreo; por ejemplo, en <b>PepsiCo</b> los indicadores de actividad permiten verificar la ejecución de activaciones en punto de venta, mientras que los indicadores de eficiencia permiten evaluar el retorno de inversión de las campañas, los indicadores de percepción, por su parte, se utilizan para ajustar el mensaje y mejorar la experiencia del cliente.
                 .col-2.col-lg-3.d-none.d-lg-block
                   figure
