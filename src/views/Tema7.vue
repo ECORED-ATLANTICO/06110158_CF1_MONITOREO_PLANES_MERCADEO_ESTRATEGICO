@@ -224,10 +224,11 @@
               figure
                 img(src="@/assets/curso/temas/tema_7/img_18.png", class="img-fluid")
             .col-12.col-lg-9(data-aos="zoom-in-right")
+
                 p.mb-3 Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se explora el proceso de hacer as conciliacines y mejoras en el sistema de monitoreo estrategico.
                 TarjetaAudio.color-secundario.mb-0.p-4(
                   texto="<em>Buyer</em> Persona"
-                  :audio="require('@/assets/curso/podcast/Podcast Organización y presentación persuasiva de propuestas comerciales.wav')"
+                  :audio="require('@/assets/curso/podcast/Monitorieo de planes de mercadeo estratégico.mp3')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false")
             
 
