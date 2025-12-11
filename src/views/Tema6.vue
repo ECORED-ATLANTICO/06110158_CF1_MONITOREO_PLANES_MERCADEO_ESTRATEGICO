@@ -94,8 +94,8 @@
           h5 Figura 8.
           span Principales características de un buen indicador de seguimiento.
         figure(data-aos="zoom-in-right").mb-3
-          img(src='@/assets/curso/temas/tema_6/img_11.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra las buenas prácticas para realizar trazabilidad en los procesos de monitoreo. Texto de la figura: Capacitar a los responsables en el uso de herramientas y formatos. Validar los procedimientos en campo antes de su adopción formal. Establecer canales de retroalimentación entre supervisores y ejecutores. Revisar periódicamente la pertinencia de los procedimientos. Fomentar la participación activa de los equipos en su ajuste.")
-          img(src='@/assets/curso/temas/tema_6/img_12.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra las buenas prácticas para realizar trazabilidad en los procesos de monitoreo. Texto de la figura: Capacitar a los responsables en el uso de herramientas y formatos. Validar los procedimientos en campo antes de su adopción formal. Establecer canales de retroalimentación entre supervisores y ejecutores. Revisar periódicamente la pertinencia de los procedimientos. Fomentar la participación activa de los equipos en su ajuste.")
+          img(src='@/assets/curso/temas/tema_6/img_11.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura enseña las principales características que debe tener un buen indicador de seguimiento.")
+          img(src='@/assets/curso/temas/tema_6/img_12.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura enseña las principales características que debe tener un buen indicador de seguimiento.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> Ajustado de Kotler & Keller, 2016.
     
@@ -191,8 +191,8 @@
             h5 Figura 9.
             span Fases diseño de indicadores.
           figure(data-aos="zoom-in-right").mb-3
-            img(src='@/assets/curso/temas/tema_6/img_21.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra las buenas prácticas para realizar trazabilidad en los procesos de monitoreo. Texto de la figura: Capacitar a los responsables en el uso de herramientas y formatos. Validar los procedimientos en campo antes de su adopción formal. Establecer canales de retroalimentación entre supervisores y ejecutores. Revisar periódicamente la pertinencia de los procedimientos. Fomentar la participación activa de los equipos en su ajuste.")
-            img(src='@/assets/curso/temas/tema_6/img_22.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra las buenas prácticas para realizar trazabilidad en los procesos de monitoreo. Texto de la figura: Capacitar a los responsables en el uso de herramientas y formatos. Validar los procedimientos en campo antes de su adopción formal. Establecer canales de retroalimentación entre supervisores y ejecutores. Revisar periódicamente la pertinencia de los procedimientos. Fomentar la participación activa de los equipos en su ajuste.")
+            img(src='@/assets/curso/temas/tema_6/img_21.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra las diferentes fases para el diseño de indicadores.")
+            img(src='@/assets/curso/temas/tema_6/img_22.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra las diferentes fases para el diseño de indicadores.")
           figcaption(data-aos="zoom-in-right") 
             <b>Fuente:</b> SENA, 2025.
         .col-12.col-lg-10.mb-0(data-aos="fade-left")

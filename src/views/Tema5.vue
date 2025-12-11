@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-3 as herramientas de seguimiento son el soporte técnico y operativo que permite ejecutar el monitoreo de manera eficiente, precisa y contextualizada, estas herramientas facilitan la recolección de datos, la visualización de indicadores, la documentación de actividades y la toma de decisiones basada en evidencia. 
+        p.mb-3 Las herramientas de seguimiento son el soporte técnico y operativo que permite ejecutar el monitoreo de manera eficiente, precisa y contextualizada, estas herramientas facilitan la recolección de datos, la visualización de indicadores, la documentación de actividades y la toma de decisiones basada en evidencia. 
         br
         br
         p.mb-0 En este capítulo se abordan los tipos de herramientas aplicables al monitoreo, las tecnologías disponibles para el seguimiento comercial y los manuales y formatos que permiten su uso operativo. 
@@ -55,7 +55,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-3
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-9
-                  p.cita-decorada__texto.mb-2.p-3 En <b>Decathlon</b>, por ejemplo, se utilizan formularios digitales para recolectar datos de experiencia del cliente, <em>dashboards</em> para visualizar KPIs de fidelización, herramientas de análisis predictivo para anticipar comportamientos de compra y bitácoras operativas para documentar las acciones realizadas en tienda, esta combinación permite un monitoreo integral, ágil y alineado con los objetivos comerciales.
+                  p.cita-decorada__texto.mb-2.p-3 En <b>Decathlon</b>, por ejemplo, se utilizan formularios digitales para recolectar datos de experiencia del cliente, <em>dashboards</em> para visualizar <em>KPIs</em> de fidelización, herramientas de análisis predictivo para anticipar comportamientos de compra y bitácoras operativas para documentar las acciones realizadas en tienda, esta combinación permite un monitoreo integral, ágil y alineado con los objetivos comerciales.
                 .col-2.col-lg-3.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/temas/tema_5/img_3.png', class="cita-decorada__imagen-flotante-7")
@@ -98,7 +98,7 @@
             .row.justify-content-center.align-items-center
               .col-12.col-lg-5.order-2.order-lg-1.mb-0
                 h5 <em>Dashboards</em> personalizados 
-                p.mb-3 Los <em>dashboards</em> son paneles interactivos que permiten visualizar indicadores clave de desempeño (KPIs) en tiempo real; herramientas como Power BI y Tableau integran datos de múltiples fuentes (CRM, ERP, formularios, redes sociales) y los presentan de forma gráfica, facilitando el análisis comparativo, la detección de tendencias y la toma de decisiones, son especialmente útiles para gerencias y equipos estratégicos. 
+                p.mb-3 Los <em>dashboards</em> son paneles interactivos que permiten visualizar indicadores clave de desempeño (<em>KPIs</em>) en tiempo real; herramientas como Power BI y Tableau integran datos de múltiples fuentes (CRM, ERP, formularios, redes sociales) y los presentan de forma gráfica, facilitando el análisis comparativo, la detección de tendencias y la toma de decisiones, son especialmente útiles para gerencias y equipos estratégicos. 
                 p.mb-0 <B>Ejemplo:</B> en <b>Grupo Nutresa</b>, se utilizan <em>dashboards</em> en Power BI para monitorear el desempeño de campañas por canal, región y segmento, permitiendo identificar rápidamente qué acciones generan mayor retorno y cuáles requieren ajustes.            
               .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-0
                 figure
@@ -160,7 +160,7 @@
                   td(style="text-align: left;") Permiten estandarizar la captura de datos y asegurar la trazabilidad del proceso.
                 tr
                   td Guías de interpretación de indicadores.
-                  td(style="text-align: left;") Documentos que explican cómo leer, analizar y contextualizar los KPIs.
+                  td(style="text-align: left;") Documentos que explican cómo leer, analizar y contextualizar los <em>KPIs</em>.
                   td(style="text-align: left;") Facilitan la toma de decisiones basada en evidencia y evitan interpretaciones erróneas.
                 tr
                   td Protocolos de reporte y retroalimentación.

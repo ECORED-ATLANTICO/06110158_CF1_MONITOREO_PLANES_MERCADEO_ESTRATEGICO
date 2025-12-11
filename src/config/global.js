@@ -67,7 +67,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Indicadores de desempeño - KPIs',
+            titulo: 'Indicadores de desempeño - <em>KPIs</em>',
             hash: 't_2_2',
           },
           {

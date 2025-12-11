@@ -15,7 +15,7 @@
         p.mb-3 Un sistema de monitoreo eficaz se construye sobre componentes claramente definidos que permiten observar, analizar y ajustar el desempeño del plan de mercadeo.
         br
         br
-        p.mb-3 Este capítulo profundiza en los elementos clave que conforman dicho sistema: las actividades del plan como base del seguimiento, los indicadores de desempeño (KPIs), las herramientas asociadas y los criterios de frecuencia y responsabilidad.  
+        p.mb-3 Este capítulo profundiza en los elementos clave que conforman dicho sistema: las actividades del plan como base del seguimiento, los indicadores de desempeño (<em>KPIs</em>), las herramientas asociadas y los criterios de frecuencia y responsabilidad.  
         br
         br
         p.mb-0 A través de ejemplos aplicados, se busca que el aprendiz comprenda cómo estos componentes se articulan para garantizar la trazabilidad, pertinencia y utilidad del monitoreo estratégico.
@@ -63,12 +63,12 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-12
           #t_2_2.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 2.2 Indicadores de desempeño - KPIs
+            .h2(data-aos="fade-right") 2.2 Indicadores de desempeño - <em>KPIs</em>
           .mb-3
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-12(data-aos="zoom-in-right")
-          p.mb-3 Los KPIs (<em>Key Performance Indicators</em>) son métricas que permiten evaluar el grado de cumplimiento de las actividades del plan, deben ser específicos, relevantes y alineados con los objetivos estratégicos, algunos de los tipos en mercadeo estratégico son:
+          p.mb-3 Los <em>KPIs</em> (<em>Key Performance Indicators</em>) son métricas que permiten evaluar el grado de cumplimiento de las actividades del plan, deben ser específicos, relevantes y alineados con los objetivos estratégicos, algunos de los tipos en mercadeo estratégico son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3
@@ -81,25 +81,25 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--5
-                .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs de alcance
+                .tarjeta--slider__title.mb-3.text-center.fw-bold <em>KPIs</em> de alcance
                 .tarjeta--slider__content.text-center Número de personas impactadas, por ejemplo: impresiones, visitas únicas.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--6
-                .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs de conversión
+                .tarjeta--slider__title.mb-3.text-center.fw-bold <em>KPIs</em> de conversión
                 .tarjeta--slider__content.text-center Porcentaje de usuarios que realizan una acción deseada, por ejemplo: tasa de clics, compras.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--7
-                .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs de fidelización
+                .tarjeta--slider__title.mb-3.text-center.fw-bold <em>KPIs</em> de fidelización
                 .tarjeta--slider__content.text-center Tasa de recompra, retención de clientes.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--8
-                .tarjeta--slider__title.mb-3.text-center.fw-bold KPIs financieros
+                .tarjeta--slider__title.mb-3.text-center.fw-bold <em>KPIs</em> financieros
                 .tarjeta--slider__content.text-center Retorno sobre inversión (ROI), margen de contribución.
 
     Separador
@@ -115,7 +115,7 @@
         figure
           img(src="@/assets/curso/temas/tema_2/img_9.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="zoom-in-right")
-        p.mb-3 Las herramientas de seguimiento permiten recolectar, visualizar y analizar los datos relacionados con las actividades y KPIs, su elección depende del tipo de información, el nivel de automatización y los recursos disponibles, vamos a profundizar en estas, en el capítulo 5 del presente componente formativo, por lo pronto veamos algunos ejemplos no tecnológicos:
+        p.mb-3 Las herramientas de seguimiento permiten recolectar, visualizar y analizar los datos relacionados con las actividades y <em>KPIs</em>, su elección depende del tipo de información, el nivel de automatización y los recursos disponibles, vamos a profundizar en estas, en el capítulo 5 del presente componente formativo, por lo pronto veamos algunos ejemplos no tecnológicos:
     
     TabsB.color-primario.mb-5(data-aos="zoom-in-right")
       .py-4.py-md-5(titulo="Encuestas y formularios: percepción del cliente" :icono="require('@/assets/curso/temas/tema_2/img_10.svg')")
@@ -158,7 +158,7 @@
               | <b>Asana:</b> gestión de ejecución en campo. <br>
               | <b>Fulcrum:</b> recolección geolocalizada de datos.
           tr
-            td KPIs digitales.
+            td <em>KPIs</em> digitales.
             td(style="text-align: left;")
               | Google Analytics. <br>
               | Meta Ads Manager.
@@ -167,7 +167,7 @@
               | <b>SEMRush:</b> análisis SEO y tráfico orgánico. <br>
               | <b>Google Tag Manager:</b> seguimiento de eventos personalizados.
           tr
-            td KPIs comerciales.
+            td <em>KPIs</em> comerciales.
             td(style="text-align: left;")
               | CRM (<em>Salesforce</em>, <em>HubSpot</em>). <br>
               | ERP (SAP, Odoo).
@@ -176,7 +176,7 @@
               | <b>Microsoft Dynamics 365:</b> integración comercial y operativa. <br>
               | <b>Pipedrive:</b> seguimiento de oportunidades de venta.
           tr
-            td KPIs financieros.
+            td <em>KPIs</em> financieros.
             td(style="text-align: left;")
               | Power BI. <br>
               | Excel avanzado.
@@ -224,7 +224,7 @@
                 img(src='@/assets/curso/temas/tema_2/img_16.svg', class="img-fluid")
             p(style="text-align: left; margin-left:2.5rem;")
               b Mensual
-            p(style="text-align: left; margin-left:2.5rem;") Evaluaciones de KPIs estratégicos.
+            p(style="text-align: left; margin-left:2.5rem;") Evaluaciones de <em>KPIs</em> estratégicos.
 
         .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-right")
           .tarjeta-numerada-v2.color-primario.p-2.pt-2.pb-2.h-100
@@ -243,7 +243,7 @@
           p.mb-3 Algunos roles responsables podrían ser por ejemplo el coordinador de mercadeo, el analista de inteligencia comercial, el líder de canal o segmento o el equipo de monitoreo estratégico.
 
           .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
-            p.mb-3 <b>Ejemplo empresarial.</b> Una empresa el monitoreo de KPIs de fidelización se realiza mensualmente por el equipo de CRM, mientras que los indicadores financieros se revisan trimestralmente por la gerencia de mercadeo, podrías decir además que la frecuencia y los responsables son:
+            p.mb-3 <b>Ejemplo empresarial.</b> Una empresa el monitoreo de <em>KPIs</em> de fidelización se realiza mensualmente por el equipo de CRM, mientras que los indicadores financieros se revisan trimestralmente por la gerencia de mercadeo, podrías decir además que la frecuencia y los responsables son:
             ul.list-unstyled.mb-3
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0

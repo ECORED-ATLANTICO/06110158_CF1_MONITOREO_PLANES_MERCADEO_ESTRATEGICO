@@ -169,8 +169,8 @@
           h5 Figura 10.
           span Pasos para validar el sistema.
         figure(data-aos="zoom-in-right").mb-3
-          img(src='@/assets/curso/temas/tema_7/img_13.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura presenta cuatro pasos para validar un sistema de monitoreo, el cual deben estar alineados con los objetivos estratégicos del plan de mercadeo. Texto de la figura:  Revisión de la alineación estratégica. Evaluación de la utilidad de los indicadores. Análisis de la calidad de los datos. Y retroalimentación de los responsables del monitoreo.")
-          img(src='@/assets/curso/temas/tema_7/img_14.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura presenta cuatro pasos para validar un sistema de monitoreo, el cual deben estar alineados con los objetivos estratégicos del plan de mercadeo. Texto de la figura:  Revisión de la alineación estratégica. Evaluación de la utilidad de los indicadores. Análisis de la calidad de los datos. Y retroalimentación de los responsables del monitoreo.")
+          img(src='@/assets/curso/temas/tema_7/img_13.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura presenta tres pasos para validar un sistema de monitoreo, el cual deben estar alineados con los objetivos estratégicos del plan de mercadeo.")
+          img(src='@/assets/curso/temas/tema_7/img_14.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura presenta tres pasos para validar un sistema de monitoreo, el cual deben estar alineados con los objetivos estratégicos del plan de mercadeo.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> SENA, 2025.
     
@@ -225,12 +225,11 @@
                 img(src="@/assets/curso/temas/tema_7/img_18.png", class="img-fluid")
             .col-12.col-lg-9(data-aos="zoom-in-right")
 
-                p.mb-3 Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se explora el proceso de hacer as conciliacines y mejoras en el sistema de monitoreo estrategico.
+                p.mb-3 Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el pódcast complementario que acompaña este capítulo, donde se explora el proceso de hacer las conciliaciones y mejoras en el sistema de monitoreo estratégico.
                 TarjetaAudio.color-secundario.mb-0.p-4(
                   texto="<em>Buyer</em> Persona"
                   :audio="require('@/assets/curso/podcast/Monitorieo de planes de mercadeo estratégico.mp3')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false")
-            
 
 </template>
 

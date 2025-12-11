@@ -110,7 +110,7 @@
         figure
           img(src='@/assets/curso/temas/tema_1/img_8.png', class="img-fluid")
       .col-12.col-lg-9
-        p.mb-3 Cada componente cumple una función específica, por ejemplo, los KPIs permiten medir el impacto de las acciones, mientras que las herramientas facilitan la recolección y análisis de datos, la frecuencia define cada cuánto se realiza el seguimiento, y los responsables aseguran la ejecución del proceso.
+        p.mb-3 Cada componente cumple una función específica, por ejemplo, los <em>KPIs</em> permiten medir el impacto de las acciones, mientras que las herramientas facilitan la recolección y análisis de datos, la frecuencia define cada cuánto se realiza el seguimiento, y los responsables aseguran la ejecución del proceso.
     
     .bg_img_2.mb-3
 
@@ -211,7 +211,7 @@
                   .col-12.mb-3
                     .tarjeta--2
                   .tarjeta--slider__title.mb-3.text-center.fw-bold Monitoreo estratégico
-                  .tarjeta--slider__content.text-center En <b>Bancolombia</b>, se evalúan trimestralmente los KPIs de adquisición de clientes digitales, comparando resultados con metas proyectadas y ajustando el plan de medios.
+                  .tarjeta--slider__content.text-center En <b>Bancolombia</b>, se evalúan trimestralmente los <em>KPIs</em> de adquisición de clientes digitales, comparando resultados con metas proyectadas y ajustando el plan de medios.
               .tarjeta--blanca-1.h-95
                 .row.justify-content-center.align-items-center.mb-0
                   .col-12.mb-3

@@ -35,8 +35,8 @@
           h5 Figura 3.
           span Ejemplo de mapeo de actividades vs. indicador.
         figure(data-aos="zoom-in-right").mb-3
-          img(src='@/assets/curso/temas/tema_3/img_2.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra cuatro diferentes ejemplos de mapeo de actividades vs. indicador. Texto de la figura: Lanzamiento de producto.  Indicadores asociados: ventas iniciales, awareness, ROI. Activación en eventos. Indicadores asociados: interacciones, leads generados. Campaña en redes sociales.  Indicadores asociados: alcance, engagement, CTR. Promoción en punto de venta. Indicadores asociados: redención, ticket promedio. Alianza comercial. Indicadores asociados: nuevos clientes, cobertura.")
-          img(src='@/assets/curso/temas/tema_3/img_3.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra cuatro diferentes ejemplos de mapeo de actividades vs. indicador. Texto de la figura: Lanzamiento de producto.  Indicadores asociados: ventas iniciales, awareness, ROI. Activación en eventos. Indicadores asociados: interacciones, leads generados. Campaña en redes sociales.  Indicadores asociados: alcance, engagement, CTR. Promoción en punto de venta. Indicadores asociados: redención, ticket promedio. Alianza comercial. Indicadores asociados: nuevos clientes, cobertura.")
+          img(src='@/assets/curso/temas/tema_3/img_2.svg', class="img-fluid d-none d-lg-block mb-0", alt="La figura muestra cinco diferentes ejemplos de mapeo de actividades vs. indicador.")
+          img(src='@/assets/curso/temas/tema_3/img_3.svg', class="img-fluid d-block d-lg-none mb-0", alt="La figura muestra cinco diferentes ejemplos de mapeo de actividades vs. indicador.")
         figcaption(data-aos="zoom-in-right") 
           <b>Fuente:</b> SENA, 2025.
 
@@ -218,14 +218,14 @@
             .titulo-con-imagen.mb-3(data-aos="fade-right")
               .titulo-con-imagen__fondo
                 img.titulo-con-imagen__imagen(src="@/assets/curso/temas/tema_3/img_11.svg")
-                h3.titulo-con-imagen__texto Análisis de Pareto (80 / 20)
+                h3.titulo-con-imagen__texto Análisis de Pareto (80/20)
       
       .row.justify-content-center.align-items-start.mb-3
         .col-8.col-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
           figure
             img(src="@/assets/curso/temas/tema_3/img_14.png", class="img-fluid")
         .col-12.col-lg-8(data-aos="zoom-in-right")
-          p.mb-5 Es una técnica utilizada para identificar y priorizar los factores más significativos que influyen en un resultado. Se basa en el Principio de Pareto o regla del 80 / 20, propuesto por el economista italiano Vilfredo Pareto, quien observó que aproximadamente el 80 % de los efectos provienen del 20 % de las causas. Esta herramienta ayuda a detectar cuáles componentes, variables o problemas tienen mayor incidencia sobre el desempeño de un plan de <em>marketing</em>. Por ejemplo, puede revelar que el 80 % de las quejas de los clientes provienen del 20 % de los productos, o que el 80 % de las ventas se concentra en el 20 % de los clientes o canales de distribución. Las etapas del análisis son las siguientes:
+          p.mb-5 Es una técnica utilizada para identificar y priorizar los factores más significativos que influyen en un resultado. Se basa en el Principio de Pareto o regla del 80/20, propuesto por el economista italiano Vilfredo Pareto, quien observó que aproximadamente el 80 % de los efectos provienen del 20 % de las causas. Esta herramienta ayuda a detectar cuáles componentes, variables o problemas tienen mayor incidencia sobre el desempeño de un plan de <em>marketing</em>. Por ejemplo, puede revelar que el 80 % de las quejas de los clientes provienen del 20 % de los productos, o que el 80 % de las ventas se concentra en el 20 % de los clientes o canales de distribución. Las etapas del análisis son las siguientes:
       
     .bg_img_7.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-5
@@ -326,7 +326,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
             .row.justify-content-center.align-items-center
               .col-12.col-lg-9
-                p.cita-decorada__texto.mb-2.p-3 En <b>Falabella</b>, por ejemplo, se emplea un árbol de decisiones para determinar si una campaña debe ser ajustada, pausada o escalada, según el comportamiento de los KPIs, se consideran variables como presupuesto, impacto en ventas, percepción del cliente y capacidad operativa. Esta herramienta promueve decisiones informadas, estructuradas y alineadas con los objetivos del plan.
+                p.cita-decorada__texto.mb-2.p-3 En <b>Falabella</b>, por ejemplo, se emplea un árbol de decisiones para determinar si una campaña debe ser ajustada, pausada o escalada, según el comportamiento de los <em>KPIs</em>, se consideran variables como presupuesto, impacto en ventas, percepción del cliente y capacidad operativa. Esta herramienta promueve decisiones informadas, estructuradas y alineadas con los objetivos del plan.
               .col-2.col-lg-3.d-none.d-lg-block
                 figure
                   img(src='@/assets/curso/temas/tema_3/img_23.png', class="cita-decorada__imagen-flotante-4")
@@ -347,13 +347,13 @@
             img(src="@/assets/curso/temas/tema_3/img_24.png", class="img-fluid")
         .col-12.col-lg-7(data-aos="zoom-in-right")
           p.mb-3 La alineación implica revisar periódicamente si las acciones ejecutadas están siendo monitoreadas de forma pertinente y suficiente, esto requiere ajustes tanto en los indicadores como en las herramientas y frecuencias.
-          p.mb-3 En <b>Sura</b>, se identificó que las acciones de educación financiera no estaban siendo monitoreadas adecuadamente, se ajustaron los KPIs para incluir métricas de participación, satisfacción y retención del contenido.
+          p.mb-3 En <b>Sura</b>, se identificó que las acciones de educación financiera no estaban siendo monitoreadas adecuadamente, se ajustaron los <em>KPIs</em> para incluir métricas de participación, satisfacción y retención del contenido.
           .tarjeta.color-secundario-5.p-4.rounded-3.mb-0
             p.mb-3 <b>Tipos de ajustes comunes:</b>
             ul.list-unstyled.mb-3
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
-                span Inclusión de nuevos indicadores, por ejemplo, en un <em>webinar</em> educativo, inclusión de KPIs de retención.
+                span Inclusión de nuevos indicadores, por ejemplo, en un <em>webinar</em> educativo, inclusión de <em>KPIs</em> de retención.
               li.d-flex.align-items-start.mb-0
                 i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color:#FF926D; font-size: 15px; line-height: 1.5;").mb-0
                 span Cambio en la frecuencia de seguimiento, por ejemplo, en una campaña de <em>email</em>, cambio de frecuencia a semanal.
